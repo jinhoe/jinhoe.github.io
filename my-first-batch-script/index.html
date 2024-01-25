@@ -11,10 +11,10 @@
     <link rel="alternate" type="application/json"     href="/feed/json" title="Jinhoe JSON Feed">
 
     <!-- Descriptions -->
-    <meta name="description" content="My personal space without ads.">
+    <meta name="description" content="Background I was assigned to a project in a highly secure air-gapped environment. My working laptop is issued by our client and it changes everytime. …">
 
     <!-- Page Title -->
-    <title>Jinhoe's Thoughts</title>
+    <title>My first batch script – Jinhoe</title>
 
     
     <!-- Good ol ico file -->  
@@ -22,18 +22,50 @@
 <link href="/assets/css/main.min.css" rel="stylesheet">
 </head>
 
-<body class="page-home">
+<body class="page-post">
     <main class="main"><div class="text">
-    <h1 class="text-title">2024 Resolutions</h1>
-    <div class="text-content"><p>This resolution came in late because I never intended to write one, but here I am crafting a short one during my bus journey to work.</p>
-<p>This year, my focus is on an AI-related role, leaning towards becoming an AI Engineer or Data Scientist. I believe that is where my interest lies. I am pleased to be currently engaged in a project on Generative AI. I aim to undertake more projects of this nature and excel in this field.</p></div>
+    <h1 class="text-title"><a href='/'>My first batch script</a></h1>
+    <div class="text-content"><h4>Background</h4>
+<p>I was assigned to a project in a highly secure air-gapped environment. My working laptop is issued by our client and it changes everytime. We have been using VMware vSphere to access all the servers. </p>
+<p>All was good until our client started to block server access via vSphere. So now we can only access the server via RDP.</p>
+<h4>Problem</h4>
+<p>It require more steps to access those servers now.</p>
+<ol>
+<li>Open up an excel file which contains a list of the servers IP</li>
+<li>Open up a note file which contains the credential</li>
+<li>Launch Remote Desktop Connection app</li>
+<li>Copy and paste server IP</li>
+<li>Copy and paste username</li>
+<li>Copy and paste password</li>
+<li>Click connect in Remote Desktop Connection</li>
+</ol>
+<h4>Initial Idea</h4>
+<p>My inital idea was to create a PowerShell script that can store the list of servers in a dictionary (or hash table). And it will display a list of servers and ask for your input to access which server.</p>
+<p>But I'm not satisfied with this additional step, I want to access the server much faster - like just double click a file and I'm in.</p>
+<h4>Solution</h4>
+<p>Using batch script I can predefined the server IP and credential. The only issue is that I have to create a batch file for each server but it achieve my "double click" requirement. The time creating those batch files versus time saving for our team is definitely worth it.</p>
+<p>Here's what the batch script does using cmdkey command:</p>
+<ol>
+<li>Store server IP and credential</li>
+<li>Launch Remote Desktop Connection and connect to the server</li>
+<li>Delete server IP and credential</li>
+</ol>
+<p>It is important to remove the server IP and credential after used because I do not want to store it in the laptop.</p>
+<p>With this solution, I organized primary and seconday servers in folders and name the batch file by Application Name and Hostname like this: BITBUCKET HOSTNAME.bat</p>
+<h4>Problem with my solution</h4>
+<p>The thing is, in a highly secure environment, password changes frequently. So what this mean is I have to edit all the batch files with new password when that happens. Of course I knew there must be a better way, and sure it is. PowerShell script is here to save the day! First you need to define the path to the batch files, and using the find and replace function to change the password. Pretty neat huh?</p>
+<h4>Reality</h4>
+<p>So at home I have all the solutions tested and ready. Excitingly in data centre, I opened up my work laptop happily typing in the codes line by line and then realized the batch script did not work. I still have to type in username and password!</p>
+<p>Long story short, our client has disabled the ability to retrive saved credentials. Well, that's life. At least I've tried. And maybe this simple script can work for you or my future project.</p>
+<hr />
+<p>You can find the scripts in my <a href="https://github.com/jinhoe/rdp" rel="noreferrer" target="_blank">GitHub Repository</a>.</p></div>
 </div><nav class="archive archive-posts">
     <h2 class="archive-title">Want to read something else?</h2>
     <div class="archive-text"><p>Keep scrolling then</p></div>
     
     <div class="archive-latest">
         <h3 class="archive-subtitle archive-latest-subtitle">January's Thoughts</h3>
-                                <a class="archive-post-link archive-post-link-current" href="/2024-resolutions">
+                                <a class="archive-post-link " href="/2024-resolutions">
                 <p class="archive-post-name">2024 Resolutions</p>
                 <hr class="archive-post-spacer">
                 <p class="archive-post-day">5th</p>
@@ -242,7 +274,7 @@
             </h3>
         
                 
-            <a class="archive-post-link " href="/my-first-batch-script">
+            <a class="archive-post-link archive-post-link-current" href="/my-first-batch-script">
                 <p class="archive-post-name">My first batch script</p>
                 <hr class="archive-post-spacer">
                 <p class="archive-post-day">29th</p>
@@ -1052,6 +1084,8 @@
         </details>
 </nav>                <footer class="footer">
             <nav class="footer-nav">
+                                    <!-- Add link to home page if not on home page -->
+                    <a class="footer-item" href="/">Home</a>
                 
                                     <a class="footer-item" href="/about">
                         About                    </a>

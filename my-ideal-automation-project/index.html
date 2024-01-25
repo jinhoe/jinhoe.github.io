@@ -11,10 +11,10 @@
     <link rel="alternate" type="application/json"     href="/feed/json" title="Jinhoe JSON Feed">
 
     <!-- Descriptions -->
-    <meta name="description" content="My personal space without ads.">
+    <meta name="description" content="Not long after I joined the real estate industry. I realized how inefficient the industry is. One of the main reason is we do not have easy access to …">
 
     <!-- Page Title -->
-    <title>Jinhoe's Thoughts</title>
+    <title>My ideal automation project – Jinhoe</title>
 
     
     <!-- Good ol ico file -->  
@@ -22,18 +22,52 @@
 <link href="/assets/css/main.min.css" rel="stylesheet">
 </head>
 
-<body class="page-home">
+<body class="page-post">
     <main class="main"><div class="text">
-    <h1 class="text-title">2024 Resolutions</h1>
-    <div class="text-content"><p>This resolution came in late because I never intended to write one, but here I am crafting a short one during my bus journey to work.</p>
-<p>This year, my focus is on an AI-related role, leaning towards becoming an AI Engineer or Data Scientist. I believe that is where my interest lies. I am pleased to be currently engaged in a project on Generative AI. I aim to undertake more projects of this nature and excel in this field.</p></div>
+    <h1 class="text-title"><a href='/'>My ideal automation project</a></h1>
+    <div class="text-content"><p>Not long after I joined the real estate industry. I realized how inefficient the industry is. One of the main reason is we do not have easy access to real-time transaction data. That can be a problem because we advertise real estate listings based on information provided by the landlord, and that property could have been leased the next hour or a day after advertised. And 99% of the time, the landlord won't tell you about it.</p>
+<p>That's why when a potential tenant enquire about the property, it may no longer available. It doesn't make sense for agent to call the landlord everyday to check on availablity. On top of that, agent don't just market one property. For office leasing agent, we market the majority portion of office space that is available on the market which is in the thousands. Hence getting updated listings is near impossible.</p>
+<p>Now is still the same. We receive monthly listings update from the landlord from various channel. Emails, WhatsApp, a phone call. Ideally we should update the listings to the database and then update the real estate marketplace as well. Honestly, many agent don't have the resources to do all that.</p>
+<p>So I have been wanting to automate those repetitve task since day one. Recently I'm learning Python programming and as I learn some of the functions, I start thinking of ways to improve my current workflow. So here's my ideal automation project. There are 2 parts.</p>
+<h4>Part 1. Automate Real Estate Listings Update</h4>
+<p><strong>Collect the data</strong></p>
+<ul>
+<li>WhatsApp</li>
+<li>Website scraping</li>
+<li>Manual form submission</li>
+</ul>
+<p><strong>Clean and split the data for database</strong></p>
+<ul>
+<li>Convert pdf to data</li>
+<li>Convert handwritten pdf to data</li>
+<li>Convert WhatsApp message to data</li>
+<li>Convert image to data</li>
+</ul>
+<p><strong>Update database</strong></p>
+<ul>
+<li>Import data to database</li>
+</ul>
+<p><strong>Update Real Estate portal</strong></p>
+<ul>
+<li>Sync listings with database</li>
+</ul>
+<h4>Part 2. Match Tenants and Listings with Machine Learning</h4>
+<ul>
+<li>Create and train a model using historical data</li>
+<li>Input customer requirements</li>
+<li>Model to predict suitable listings</li>
+<li>Send tailored recommended listings to customer</li>
+<li>Based on customer's interaction pattern (clicks and time duation), send a more accurate recommedation if no response by X amount of time</li>
+</ul>
+<hr />
+<p>Looks like an ambitious project for now, but this will save me a lot of time. I'll probably look into it after completing the <a href="/google-it-automation-professional-certificate">Google course</a>.</p></div>
 </div><nav class="archive archive-posts">
     <h2 class="archive-title">Want to read something else?</h2>
     <div class="archive-text"><p>Keep scrolling then</p></div>
     
     <div class="archive-latest">
         <h3 class="archive-subtitle archive-latest-subtitle">January's Thoughts</h3>
-                                <a class="archive-post-link archive-post-link-current" href="/2024-resolutions">
+                                <a class="archive-post-link " href="/2024-resolutions">
                 <p class="archive-post-name">2024 Resolutions</p>
                 <hr class="archive-post-spacer">
                 <p class="archive-post-day">5th</p>
@@ -386,7 +420,7 @@
         
         
                 
-            <a class="archive-post-link " href="/my-ideal-automation-project">
+            <a class="archive-post-link archive-post-link-current" href="/my-ideal-automation-project">
                 <p class="archive-post-name">My ideal automation project</p>
                 <hr class="archive-post-spacer">
                 <p class="archive-post-day">23rd</p>
@@ -1052,6 +1086,8 @@
         </details>
 </nav>                <footer class="footer">
             <nav class="footer-nav">
+                                    <!-- Add link to home page if not on home page -->
+                    <a class="footer-item" href="/">Home</a>
                 
                                     <a class="footer-item" href="/about">
                         About                    </a>
