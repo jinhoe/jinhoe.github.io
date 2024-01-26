@@ -1,0 +1,54 @@
+Title: Discord is WhatsApp’s future
+
+----
+
+Text:
+
+Lately I noticed a lot of YouTubers are having a Discord group chat. So I joined one to understand what was it all about. Immediately I'm amazed by how organized the messages are.
+
+To me the key feature is within a group you can have multiple channels (subtopic). This helps to organize the type of messages rather than dump all into one like WhatsApp group chat. Best of all, you can mute a channel if that topic doesn't interest you.
+
+My immediate thoughts are to suggest it to our team. Currently our WhatsApp group chat is flooded with noise and not all messages are relevant to me. Too much notification alert that I muted it forever.
+
+(image: discord-is-whatsapp-s-future.jpg caption: A typical day)
+
+Now if we are using a Discord group chat, we can create subtopics like this:
+
+```
+#general
+#event
+#announcement
+#new-project
+#hdb
+#condo
+#commercial
+#landed
+#co-broke
+#useful-contacts
+```
+
+And I'll mute all channel except for general event commercial. That way I can easily participate on a specific topic.
+
+However when I share this "new" app to my friend, he told me he don't know what is Discord. And if no body is using, it doesn't matter how great the app is.
+
+>The resources require to train his team to use it supersede the benefits.
+
+I totally agreed with him. However I disagree his unreceptive approach to new technology in this ever changing era.
+
+>Not all benefits are measurable.
+
+As a leader or even an individual, I believe we must embrace new technology. Use it to improve our lives and productivity. I’m not saying to try out all new tech available in the market. But at least the trendy one.
+
+By doing so, your team will feel assured to have a leader that is always ahead of the game. Indirectly, their clients will also feel the “techie” vibe and be more confident with the agent.
+
+Separating working group chat into Discord also means making WhatsApp less cluttered, more room for clients and family.
+
+On top of that, the text layout in Discord is more readable and searchable. Organized messages means fewer people asking repeated questions. The message you receive will be more relevant. When people receiving relevant messages, there is no reason to mute the group chat and more reason to participate in the conversation. Making the main purpose of having a group chat intact.
+
+***
+
+What are your thoughts on Discord? Are you using it? Share with me in my Discord group chat… nah I’m just kidding. I don't have one.
+
+----
+
+Published: 2021-07-11

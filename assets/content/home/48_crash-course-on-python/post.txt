@@ -1,0 +1,15 @@
+Title: Crash Course on Python
+
+----
+
+Text:
+
+(image: crash-course-on-python-certificate.jpg)
+
+Just completed Crash Course on Python which is part of the (link: /google-it-automation-professional-certificate text: Google IT Automation Professional Certificate) that I've enrolled last month.
+
+Still overloaded with all the different functions available in Python. Guess I'll need more practice to get better at it. Perhaps now I can't say I have no programming knowledge!
+
+----
+
+Published: 2022-02-15

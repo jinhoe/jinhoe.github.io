@@ -1,0 +1,29 @@
+Title: Jinhoe
+
+----
+
+Subtitle: Thoughts
+
+----
+
+Archivetitle: Want to read something else?
+
+----
+
+Archivepreviewtitle: Thoughts
+
+----
+
+Archivebuttontext: Show More
+
+----
+
+Description: My personal space without ads.
+
+----
+
+Archivetext: Keep scrolling then
+
+----
+
+Text: A short description of the site

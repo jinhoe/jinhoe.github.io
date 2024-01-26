@@ -1,0 +1,21 @@
+Withtemplate: true
+
+----
+
+Alt: 
+
+----
+
+Title: 
+
+----
+
+Thewidth: 1024
+
+----
+
+Theheight: 1024
+
+----
+
+Thepadding: 100

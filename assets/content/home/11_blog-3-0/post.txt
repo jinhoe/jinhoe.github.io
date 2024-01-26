@@ -1,0 +1,21 @@
+Title: Blog 3.0
+
+----
+
+Text:
+
+Today I revamped my blog site. For the third time.
+
+Coincidently it's the 4th month since I started my first blog. Wow, every blog site design last me slightly more than a month.
+
+This time round was a major revamped and an experiment. I’m not using Wordpress, but a file-based CMS called (link: https://getkirby.com text: Kirby). After using Wordpress for so long, Kirby blew my mind. The installation was insanely simple. Just drag files into public_html folder and DONE!
+
+I’m so excited to discover this minimal yet amazing CMS. Anyway I’ll keep a record of all my past and future blog site below.
+
+(image: blog-1.png caption: Blog 1.0)
+(image: blog-2.png caption: Blog 2.0)
+(image: blog-3.png caption: Blog 3.0)
+
+----
+
+Published: 2021-06-03

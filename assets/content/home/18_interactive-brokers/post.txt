@@ -1,0 +1,47 @@
+Title: Interactive Brokers
+
+----
+
+Text:
+
+I’m officially Interactive Brokers — IBKR fan now.
+
+Previously I wrote about (link: /tiger-brokers text: Tiger Brokers) and why I’m using it but deep down I knew it wasn’t “the one”. That is why I didn’t include my referral link in the article because I wasn’t 100% sure I will be using it for long term.
+
+After 2 months I found IBKR and decided to switch for the following reasons:
+
+- Low transaction fee - Here's a quick comparison from my past transaction with similar stock price and quantity
+1. UOB Kay Hian: $21.40
+2. Tiger Brokers: $1.99
+3. IBKR: $1.00
+- Joint account - In case I KOed, the entire account goes to my wife
+- Protected by SIPC for up to $500,000 (For US stocks)
+- Established since 1978
+- US based company
+- Setup a Singapore office in 2020
+- No maintenance fee
+- Clean interface for Web Portal - But their desktop and mobile app sucks
+
+The only two things I don’t like is their mobile app and delayed price. Their mobile app UI looks dated and information displayed is not as optimise as Tiger Brokers app. Here’s my rating on the 3 brokerage's mobile apps I’ve used.
+
+1. UOB Kay Hian: 1/5
+2. Tiger Brokers: 4/5
+3. IBKR: 2/5
+
+(image: singapore-brokerage-app.jpg)
+
+I avoid IBKR horrible mobile app by using their desktop Web Portal to trade instead. Fortunately the Web Portal UI is a lot cleaner and usable.
+
+(image: ibkr-singapore.png caption: IBKR Web Portal)
+
+The 2nd issue is lack of real-time price data. There is a delay of 15 mins. Almost a deal breaker for me since I’ve been enjoying real-time price from Tiger Brokers app. So my work around for now is use Tiger Brokers app to monitor real-time price. Luckily stock purchase in IBKR is based on real-time market price even though the display shows delayed price.
+
+Now I’m comfortable in recommending you Interactive Brokers because I foresee I will be in it for a long time.
+
+***
+
+Here’s my (link: https://ibkr.com/referral/jinhoe431 text: referral link), use it and get free IBKR stock.
+
+----
+
+Published: 2021-07-10

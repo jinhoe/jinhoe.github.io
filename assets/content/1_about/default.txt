@@ -1,0 +1,47 @@
+Title: About
+
+----
+
+Text:
+
+(image: lian-jin-hoe.jpeg caption: My happiest moment)
+
+I'm Jinhoe, a DevOps Engineer based in Singapore.
+
+My passion lies in crafting efficient systems and automating everyday tasks. Clean design, functionality and minimalism are at the heart of everything I create.
+
+## More about me
+
+> If you're still reading this page it means you probably wish to know more about me. Wish granted.
+
+#### Who am I?
+
+I'm a proud Singaporean of Chinese descent. From a young age, I love art and being creative. It's just a part of who I am. I'm also a firm believer in optimizing things to simplify life. My go-to brands are APPLE, UNIQLO, MUJI, and IKEA.
+
+#### My journey
+
+My career journey began back in 2004 when I started as a sales engineer, where I learned the fundamentals of doing business. However, my entrepreneurial spirit soon took over, leading me to launch my first e-commerce store.
+
+While that venture didn't pan out as expected, it was during the challenging times of the Great Recession in 2009 that I transitioned into the real estate business. You can watch a video where I share (link: https://youtu.be/oRXByJ-QvnM text: how I become a real estate agent).
+
+As an office leasing agent, I take on various roles, ranging from creating digital content to assist my clients in finding their dream offices. But my journey doesn't stop there. I also ventured into the (link: /student-hostel text: student hostel) and (link: /serviced-apartment text: serviced apartment) businesses, although I exited that chapter in 2017.
+
+My curiosity led me to explore the world of chatbots, and I even launched (link: https://www.udemy.com/user/jin-hoe-lian text: Udemy courses) to teach people how to build their own chatbots. I've had the pleasure of creating chatbots for small and medium-sized enterprises and was (link: https://www.tnp.sg/news/singapore/duo-help-smes-build-chatbots text: featured) in local media.
+
+#### Embracing change
+
+The COVID-19 pandemic had a profound impact on my real estate business. It was during this challenging period that I realized my passion for technology and automation. I made the bold decision to pivot my career path, aiming to harness my automation skills and analytical mind.
+
+#### What I do now
+
+Today, I enjoy my work as a DevOps Engineer, helping clients automate their day-to-day routine tasks, which makes their lives easier and more efficient. When the sun sets and my son is asleep, you'll find me watching Netflix, taking online courses to keep learning, and occasionally trading options.
+
+## Connect {#contact}
+
+I've exited from most social media platforms, but you can still connect with me on (link: https://twitter.com/jinhoe0 text: X) or reach out via my email below.
+
+(image: jinhoe-contact.jpeg)
+
+----
+
+Menu: 

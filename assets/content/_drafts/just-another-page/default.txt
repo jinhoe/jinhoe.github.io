@@ -1,0 +1,9 @@
+Title: A static page
+
+----
+
+Menu: Look at me
+
+----
+
+Text: This is a simple static page. If you set the status on visible it will be displayed in the footer, after the archive. The page won't get included in the archive for obvious reasons.

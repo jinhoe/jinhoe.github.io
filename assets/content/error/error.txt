@@ -1,0 +1,11 @@
+Title: This page is gone
+
+----
+
+Text:
+
+You're reading this and you're probably confused. Yes, this is a 404 page and yes, the page you were looking for is gone. That's not surprising since I change my site quite often. But since you're here I'm gonna share this quote with you. And here's a link to (link: / text: go back to the homepage)
+
+> Social media has colonized what was once a sacred space occupied by emptiness: the space reserved for thought and creativity.
+
+Thanks for stopping on my site by the way. If you were looking for something in particular you can always (link: /about text: send me an email).

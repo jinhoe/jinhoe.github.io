@@ -1,0 +1,43 @@
+Title: Hello world 2.0
+
+----
+
+Text:
+
+I never wanted to blog for 2 reasons.
+
+## My poor command of English
+
+I’m was never good in English. So one might think in that case I should be good in Mandarin (Chinese). Well, actually my Mandarin is only so-so in academic. My strength subject is actually Art and Math. So writing a blog expressing myself in English is a challenge for me.
+
+## Writing a blog is tedious in the digital marketing world
+
+As a digital marketing enthusiast, I totally understand the need for having a blog in your website. For SEO purpose and get organic traffic. You’ll need to first research a few broad topic that is in your niche and preferably in the trend. Research your keyword to be included in your post title and content. Find a suitable featured image that represent your blog post. Rename the image file name with keywords, don’t forget alt text and optimise your image file.
+
+This is just the part of it but you get the idea.
+
+## So why I start now?
+
+I was inspired by a friend of mine with a (link: https://just2me.com text: simple blog) for many years. Though simple, but it gives value and I enjoy reading his piece every now and then. He is very consistent so I asked him about his work flow and how he schedule time to write and publish his post. He told me he just write whenever he feels like it and didn’t research any keywords for his post title and content. He just write and publish his post without having to worry his “virtual audience”.
+
+Ah ha! I like that. I think I can commit to that, just write even with broken English and poor grammar. Don’t worry about Google penalizing my website due to poor grammar, whatsoever. I’ll just blog without any purpose or objective.
+
+## So how I start?
+
+I want the blogging process to be very simple and easy. Dead simple. I want to be able to draft my blog anywhere.
+
+I start by adding the blog function to my website. And I want a distraction-free reading experience. So there is no side menu. But that may change when I start to categories my blog. After I have designed the blog archives and layout it makes me want to start my first blog. (Ya, this one)
+
+Next I search for a good app to allow me to draft my blog on my phone. I foresee most of my blog will be written in multiple locations. This paragraph is my 3rd location (Yishun Hawker eating my breakfast). At first I tried the App developed by WordPress, but the user experience sucks. I’m surprise It is so terrible.
+
+Then I turned to the app that I use frequently – Apple Notes app. So far I haven’t found any app that gives a better typing experience. The only hassle is to transfer from Notes to WordPress manually. I would probably continue to look for a better solution. If you have a better workflow please share it with me!
+
+That’s it! Here’s my first blog written in 4 locations. Library, Yoshinoya, Hawker Centre and my Sister-in-law’s place.
+
+***
+
+*PS: I’ve decided not to use any featured image for my blog simply because I spent too much time thinking of a suitable image!*
+
+----
+
+Published: 2021-02-03

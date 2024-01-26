@@ -1,0 +1,27 @@
+Title: Welcome!
+
+----
+
+Text:
+
+Hello and welcome to your new blog, powered by the amazing Kirby 3. I really hope you like this design. I personally think is one of the best things I designed in the past few years. First things first: this is a (link: https://getkirby.com text: Kirby) site and you need to (link: https://a.paddle.com/v2/click/1129/36163?link=1170 text: buy a license) in order to use it. So if you haven't already, (link: https://a.paddle.com/v2/click/1129/36163?link=1170 text: go buy one). And yes, that's a referral link. If you buy the license using that link I'll also get a few bucks in return.
+
+## The Setup
+
+Kirby is very easy to install on your server. You only need to extract the content of the zip and you're done. If you have troubles (link: https://getkirby.com/docs/guide/installation text: check the documentation) or ask a question on the (link: https://forum.getkirby.com text: official forum). We're all here to help.
+
+## Theme Options
+
+The theme comes with no options. Yes, you read it right. This is not a fancy WP theme with 17 sliders and 3 builders. It's a site I coded for myself and I don't need options. If you do want to make some changes you can either write your own code or get in touch and we can work something out.
+
+## Theme features
+
+The theme has a menu in the footer that's automatically populated with all the visible pages and an RSS feed in two flavours: XML and JSON. Other than that, it's just a simple single column blog with a very minimal design. There's no JS and no custom fonts. Should load pretty quickly on any decent hosting.
+
+## Got questions?
+
+I really don't want to spend time writing a usless documentation so if you have questions about the theme just (email: hello@manuelmoreale.com text: shoot me an email) and I'll get back to you with an answer.
+
+----
+
+Published: 2018-11-11

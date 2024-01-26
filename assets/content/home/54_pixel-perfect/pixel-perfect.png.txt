@@ -1,0 +1,21 @@
+Withtemplate: true
+
+----
+
+Alt: 
+
+----
+
+Title: 
+
+----
+
+Thewidth: 877
+
+----
+
+Theheight: 595
+
+----
+
+Thepadding: 67.844925883694

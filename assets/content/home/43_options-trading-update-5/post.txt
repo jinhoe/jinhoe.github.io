@@ -1,0 +1,21 @@
+Title: Options trading update #5
+
+----
+
+Text:
+
+(image: options-trading-update-5.png)
+
+In December the market was very bad. There was so much uncertainly going on. Growth stocks were down 40-60%. I only sold call options on my assigned stocks and since price has went down signficantly, the premium is little. On some position I had to lower the strike price to below assigned strike.
+
+I think Wheel Strategy may not work best in bearish market. Even if you are wheeling value stocks, it still got beaten regardless and your capital will be tied down. Selling call options may not get much premium after stocks price went below 10-15%.
+
+I learn a few more options strategies just to know what are the available "tools" to use in bearish scenario. So far I like Credit Spread because it is similar like the usual selling put or call but with a layer of protection to prevent the unlimited risk. I will try trading it this month.
+
+Another thought I had is I may not be as aggressive trading options this year as I thought I would. Perhaps buy and hold shares can perform better than my options trading performance. Why waste so much time and effort. I am also carefully Dollar Cost Average (DCA) into some growth stocks.
+
+Elon Musk said recession could be coming Q2/Q3 this year. We shall see.
+
+----
+
+Published: 2022-01-05

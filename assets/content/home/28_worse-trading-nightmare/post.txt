@@ -1,0 +1,58 @@
+Title: Worse trading nightmare
+
+----
+
+Text:
+
+Yesterday morning, I received the worst news on my birthday ever. I sold a put option for FBRX few days ago and it has dropped 82% in a night.
+
+(image: worse-trading-nightmare.jpg)
+
+I've entered the trade knowing that the risk is 3 times higher than my normal trade. But I couldn't resist the high premium it has to offer. When I entered, the price was around $29 per share. I sold a put option with strike price $15 and a 18 days expiration. I thought a good 50% buffer would be more than enough to cushion off any price reduction during the 18 days. Obviously I was wrong. It went down to 82% in just one night.
+
+Probably this is why people keep saying trading options is very high risk. Thankful I still follow the basic fundamental of trading which is to only invest money that you are ok to lose. I will update the progress of this trade here to act as a reminder for my future self.
+
+***
+
+#### 6 Sep 2021
+I'm considering to rollover my position or fly a rescue mission. Rollover make sense to me if I believe FBRX will be an upward trend soon. However history shows twice that price has been stagnant for at least 4 months after a signicant dropped.
+
+(image: fbrx-history-price.jpg)
+
+Hence I may start phase 1 of my rescue mission tomorrow to lower my strike price to $12.5.
+
+#### 8 Sep 2021
+Price is hovering around $4.20 so I started my rescue mission. Sold a put option at $5 strike price to average down to $12.5.
+
+#### 12 Sep 2021
+Last night, I learnt more about Forte Biosciences (FBRX) and why  their price dropped more than 80% within a day. It turns out that their lead product (link: https://www.fortebiorx.com/investor-relations/news/news-details/2021/Clinical-Trial-of-FB-401-For-the-Treatment-of-Atopic-Dermatitis-Fails-to-Meet-Statistical-Significance/default.aspx text: FB-401 had failed the clinical trial). Further more they will not continue to advance FB-401. FB-401 seems to be their only product.
+
+My mistake was to let greed took over my trading strategy. The biggest mistake was to trade on shares which I do not wish to own. I don't even know what this company is doing. Should I know that this company is waiting for their sole product clinical trial report, I would have not jumped in. This is the consequence and I deserved to be punished.
+
+My current thoughts are to cut my losses by buying back my put options at $2105, or owning 400 shares of a company without a product.
+
+By factoring the initial premium I've collected, held onto the shares and hope for a miracle, the additional losses could be $1580 if the company went bankrupt.
+
+So the question in my mind is should I bet $1580 on a zero product company that started in 2007 with $50+ million cash in bank? Hmmm...
+
+#### 19 Sep 2021
+Friday I was ready to sell call at $7.5 strike which is below my cost basis of $9.21. But the premium for $12.5 is the same, so I decided to go with $12.5 instead. Probably I will fly another rescue mission on Monday to collect more premium.
+
+#### 22 Oct 2021
+I've learnt that do not fly a rescue mission if you do not wish to own the stocks. So I'm sitting on my hands at the moment because premium is too low to sell call - around $5 per contract. Earnings report on 15 Nov, hopefully the CEO will announce their plan moving forward. I've also set a good-til-canceled (GTC) order, selling all stocks at $12.5. Just in case there is a spike movement while I'm asleep.
+
+#### 23 Mar 2022
+(link: /i-sold-my-fbrx-shares text: I sold my FBRX shares.)
+
+***
+
+- FBRX 17SEP21 15.0 P x 3 (Entry: 31 Aug 2021)
+- FBRX 17SEP21 5.0 P x 1 (Entry: 8 Sep 2021)
+- FBRX 15OCT21 12.5 C x 4 (Entry: 17 Sep 2021)
+- Sold FBRX 1.5 x 400 (Exit: 23 Mar 2022)
+
+_Updated: 23 Mar 2022_
+
+----
+
+Published: 2021-09-04

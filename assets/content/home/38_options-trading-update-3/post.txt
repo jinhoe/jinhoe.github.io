@@ -1,0 +1,21 @@
+Title: Options trading update #3
+
+----
+
+Text:
+
+(image: options-trading-update-3.png)
+
+October has been a great month. Stocks has been going through the roof. It’s good for long term stocks holding but bad for selling put options.
+
+My shortlisted stock price for selling put has been way too high. I can’t find any support hence didn’t have a lot of trading opportunities.
+
+I’ve learnt to be patience. It is ok to sit on your hands and wait. Don’t force yourself into a trading position just because you don’t want to see your cash idling.
+
+Thankfully most of my wheels got assigned in September and I’ve sold call with longer expiration date. Hence I only need to sell a few put options for the month. I should have sold calls with 15 DTE instead of 30 because APPL and AMD did recovered fast and crossed my strike in just two weeks.
+
+Anyway October performed well. I've achieved my goal. Mainly because I gradually and carefully increases my margin usage to my planned amount so I would expect similar returns moving forward.
+
+----
+
+Published: 2021-11-01

@@ -1,0 +1,44 @@
+Title: Student hostel
+
+----
+
+Text:
+
+We refurbish, upgrade and beautify properties to provide high quality academic housing.
+
+(image: student-hostel-tessensohn-hall.jpg caption: Tessensohn Hall)
+
+- 4,000 sq.ft.
+- 6 months of searching and planning
+- 3 months of renovation work
+
+(image: student-hostel-tessensohn-hall-1.jpg)
+(image: student-hostel-tessensohn-hall-2.jpg)
+(image: student-hostel-tessensohn-hall-3.jpg)
+(image: student-hostel-tessensohn-hall-4.jpg)
+(image: student-hostel-tessensohn-hall-5.jpg)
+(image: student-hostel-tessensohn-hall-6.jpg)
+(image: student-hostel-tessensohn-hall-7.jpg)
+
+(image: student-hostel-serangoon-hall.jpg caption: Serangoon Hall)
+
+- 8,000 sq.ft.
+- 6 months of searching and planning
+- 3 months of renovation work
+
+(image: student-hostel-serangoon-hall-1.jpg)
+(image: student-hostel-serangoon-hall-2.jpg)
+(image: student-hostel-serangoon-hall-3.jpg)
+(image: student-hostel-serangoon-hall-4.jpg)
+(image: student-hostel-serangoon-hall-5.jpg)
+(image: student-hostel-serangoon-hall-6.jpg)
+(image: student-hostel-serangoon-hall-7.jpg)
+(image: student-hostel-serangoon-hall-8.jpg)
+(image: student-hostel-serangoon-hall-9.jpg)
+(image: student-hostel-serangoon-hall-10.jpg)
+(image: student-hostel-serangoon-hall-11.jpg)
+(image: student-hostel-serangoon-hall-12.jpg)
+
+----
+
+Menu: 

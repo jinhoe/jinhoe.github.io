@@ -1,0 +1,17 @@
+Title: Python course completed
+
+----
+
+Text:
+
+(image: google-it-automation-with-python-certificate-singapore.jpg)
+
+I felt relieved after completed this super compact (link: /google-it-automation-professional-certificate text: Python programming course). It is quite intense for a semi-beginner like me. I said semi because I can understand certain Python functions and syntaxs due to my chatbot background.
+
+It was designed to be a 8-month course, 4 hours per week. But I rush through it in 2 months because I have more than 4 hours to spare!
+
+Anyway I intent to specialize in Python language. So moving forward I will work on personal project to solve my own problems with Python. Hope to publish my projects in GitHub too.
+
+----
+
+Published: 2022-03-18

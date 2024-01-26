@@ -1,0 +1,19 @@
+Title: Learning Machine Learning
+
+----
+
+Text:
+
+Lately I’m busy learning Machine Learning. Machine Learning has always been an interesting subject to me. I’m fascinated by how one can teaches a computer to learn. Isn’t that amazing?
+
+So as usual I jumped into the topic to satisfy my curiosity.
+
+During my learning journey, I discovered Andrew Ng. He is a well known figure in the AI world. I find his way of teaching thoughtful with his student benefit as priority. For example before Andrew, I enrolled in other machine learning courses. I learnt about using Python library to create a simple Machine Learning model that can recommend music genre based on age and gender. It did work with a few lines of code. But what I didn’t learn was the algorithm behind the library that was used in the code. That is the key to understand the framework of Machine Learning. This is essential for troubleshooting complex project later on.
+
+So Andrew’s courses gave me a strong foundation in machine learning. Learning all the math, equations, etc. Understanding the logics behind those few lines of code. I highly recommend his course: (link: https://coursera.org/specializations/machine-learning-introduction text: Machine Learning Specialization) as a starting point for anyone who is interested in Machine Learning.
+
+But before that you may want to attend a great non-technical course to understand what AI can and cannot do. Also taught by him. (link: https://coursera.org/learn/ai-for-everyone text: AI For Everyone)
+
+----
+
+Published: 2022-10-11

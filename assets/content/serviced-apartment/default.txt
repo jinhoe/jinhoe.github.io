@@ -1,0 +1,33 @@
+Title: Serviced apartment
+
+----
+
+Text:
+
+Every apartment tells a story.
+
+(image: the-cathay.jpg caption: The Cathay)
+(image: porcelain-bowl.jpg caption: Porcelain Bowl)
+(image: urban-life.jpg caption: Urban Life)
+(image: tic-tac-toe.jpg caption: Tic Tac Toe)
+(image: the-ubin.jpg caption: The Ubin)
+(image: the-cheongsam.jpg caption: The Cheongsam)
+(image: teal-lantern.jpg caption: Teal Lantern)
+(image: studio-aljunied.jpg caption: Studio Aljunied)
+(image: straits-settlement.jpg caption: Straits Settlement)
+(image: sixties-singapore.jpg caption: Sixties Singapore)
+(image: seaport-1926.jpg caption: Seaport 1926)
+(image: optima.jpg caption: Optima)
+(image: mango-tree.jpg caption: Mango Tree)
+(image: kweh-lapis.jpg caption: Kweh Lapis)
+(image: guilin.jpg caption: Guilin)
+(image: garden-city.jpg caption: Garden City)
+(image: dim-sum-paradise.jpg caption: Dim Sum Paradise)
+(image: coastal-village.jpg caption: Coastal Village)
+(image: chapati.jpg caption: Chapati)
+(image: bird-song.jpg  caption: Bird Song)
+(image: alice-in-chinatown.jpg caption: Alice in Chinatown)
+
+----
+
+Menu: 

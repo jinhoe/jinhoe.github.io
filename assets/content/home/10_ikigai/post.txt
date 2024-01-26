@@ -1,0 +1,29 @@
+Title: ikigai
+
+----
+
+Text:
+
+(image: ikigai.png)
+
+Recently I’ve been trying to (link: https://youtu.be/Zxj3P0enJNQ text: discover my ikigai). My reason for being. I felt something was missing and sometime I felt lost. Lost of direction. Not knowing what to do next. I hope finding my ikigai is the solution. The thing is, I’m a general of all things but master of none.
+
+Other than my real estate profession, I do have quite a wide range of skill sets, but not professional level. Mainly because I enjoy learning new things and doing it myself. I’m a very hands on guy.
+
+However I only learn enough to achieve what I want. Hence here and there I master only on the surface level. So I’m not exactly sure what I’m really good at that can bring value to people.
+
+(image: ikigai-love.png)
+
+Finding what I love is also challenging for me because I have passion in lots of things. Web design, photography, minimal stuff, architecture, automation, digital marketing and the list goes on.
+
+Today I found out that I actually do enjoy coding. You see, I’m a logical person. My brain works like an excel spreadsheet. That explain why I enjoy building (link: https://manychat.com/ text: Chatbot) and using (link: https://www.integromat.com/?pc=jinhoe text: Integromat). But coding never come across my mind because I do not know any programming language other than the Boolean C++ that I learnt during my school days. Deep down I always wanted to develop my own iOS app but shy away from it because lack of programming knowledge.
+
+Recently I’ve installed (link: https://www.apple.com/sg/swift/playgrounds/ text: Swift Playgrounds App) in my iPad to get my son start learning basic coding. Then today I thought, why can’t I learn as well. I shouldn’t be so afraid of programming language. Just learn like a student would. Play, have fun and who knows one day I might develop some useful app that can bring value to people.
+
+***
+
+Maybe my ikigai is being an iOS app developer or maybe not. But that's ok because every attempt is a step closer.
+
+----
+
+Published: 2021-06-02

@@ -1,0 +1,29 @@
+Title: Options trading update #4
+
+----
+
+Text:
+
+(image: options-trading-update-4.png)
+
+First off, I made some amendment with the past returns. I should have used the stocks assignment value as my capital to calculate returns instead of current value. And one thing to note is that I will have cash in the account that is meant for stock purchase  not options trading. Since I only have one brokerage account I will account those cash as part of my options trading capital to make my life easier.
+
+November has been a challenging month as I was assigned with Disney and PayPal stocks. Unlike FBRX, they are solid companies and I can still sell weekly call options. So the stock selection is the most important factor when trading options. I'm confident they will do well in long term.
+
+Overall I achieved my 3% target but mainly because I sold naked put for Tesla stock along the way. Those premium helped to cover the short for. A risky move I must say.
+
+The past few days I have doubt if I should continue trading options or just stay invested in stocks. I had such thought because I figured the average monthly return for Tesla stocks for the last 365 days was 7.77%. That is way better than my 3% target so why not just invest in Tesla and stop trading options.
+
+Here's my take after I did some analysis:
+
+Options trading can never out perform a growth stock without over leveraging margin. If my options trading strategy can be Repeatable, Consistency and Systematic (RCS), then it can perform better than most value stock.
+
+Therefore I treat options trading as another investment instrument along side with stock investment. Ideally I would use the premium collected from options trading to buy more shares.
+
+I forsee December to be another challenging month. Heard rumours saying the market is crashing. The new Covid-19 variant Omicron and FED tapering is creating a lot of uncertainly in the market.
+
+Last Friday was a blood bath. I believe we are already in the midst of a crash. We shall see.
+
+----
+
+Published: 2021-12-06

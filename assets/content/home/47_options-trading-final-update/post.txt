@@ -1,0 +1,40 @@
+Title: Options trading final update
+
+----
+
+Text:
+
+It was a bearish market in January and I expect the bearish trend continue in February. I did not sell any put options, but sold covered calls and credit spread. The returns for January is about 0.8% positive mainly because I am still testing the results of credit spread hence those positions are relatively small.
+
+This month I may try out debit spread as well. Also DCA into some of my shortlisted stocks listed below. I decided to stop updating my options trading chart because it wasn't accurate.
+
+My main stocks and options trading are in the same account which makes the accounting challenging. I had cash in my account which was intended for options trading but I used it to buy some shares. So the return is kind of messed up.
+
+Anyhow I plan to continue recording my learning progress just not on a monthly basis. Oh btw, 新年快乐!
+
+---
+
+Tier 1 Stocks (35% of Portfolio)
+- TSLA
+- AAPL
+- GOOG
+
+Tier 2 Stocks (5% of Portfolio)
+- NVDA
+- AMD
+- PLTR
+- U
+- RBLX
+- CRWD
+- TTD
+- DOCU
+- DOCN
+- NET
+- SE
+- UPST
+- SHOP
+- SNOW
+
+----
+
+Published: 2022-02-04

@@ -1,0 +1,37 @@
+Title: IIS Hardening
+
+----
+
+Text:
+
+Hardening is one of the IT jargon that I have heard multiple times in my project but wasn't clear what it does. Accordingly to my senior, it is to "harden" the system such that it is hard for hackers to penetrate. In short, for security purpose.
+
+With that little understanding, I stopped asking because I knew it will open another can of jargons which will confuse me further.
+
+In reality, we do not have the luxury of time to learn at our own pace. Hence I was tasked to start hardening for our servers with documentation and the help of our seniors.
+
+It took me around 4 hours to complete the first server. A lot of errors, clarification and screenshots. We have like 10+ machines and only two of us doing over the weekend! I practically turned into a human robot, using 3 screens and speed up hardening time to 2 hours per server, then 1 hour, then less than an hour. To be honest, I do not know exactly what I did, I just executed the commands in the fastest possible human way.
+
+#### It was a horrible unproductivity experience for me.
+
+I knew there must be a better way. I do not believe there is no faster solution for a industry standard hardening practices.
+
+So I Googled "IIS hardening script" and found a (link: https://www.calcomsoftware.com/automating-iis-hardening-with-powershell/ text:website) that has PowerShell scripts for all the hardening steps. I'm excited and wary at the same time because the script might be blocked or has a lengthly process to get it approved.
+
+I knew there are a lot more servers coming up for hardening so I had to find the solution soon. I put my concern aside and approached my senior, shared my idea and suggested we work together to develop this hardening solution.
+
+As I am about to begin, I had an opportunity to chat with a person from another company who is in the same project. I causally asked if he has any "cheat code" to get the hardening done faster. And he said yes! I'm fired up and grabbed him to show me the steps!
+
+He explained that the hardening remediation was saved in a config file named, ApplicationHost.config. Conceptually we just need to harden one server, copy its ApplicationHost.config and paste it into the next server. Of course not as simple as copy and paste the entire file. Only remediation related portion.
+
+There are a few more steps to it, but I am going to stop here. I wrote this to document my learning journey, not a tutorial lah.
+
+Btw I just learnt this method yesterday, but a have another ultimate goal which is using CHEF to push out IIS Hardening remediation to all the servers! Dream big ya!
+
+Lastly I want to share a video about Windows and Linux OS Hardening. Quite educational.
+
+(video: https://youtu.be/JOEpNBW6wkA)
+
+----
+
+Published: 2022-08-20

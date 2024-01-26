@@ -1,0 +1,23 @@
+Title: Pixel perfect
+
+----
+
+Text:
+
+Today I found the best way to illustrate the perfectionism in me. I always strive to achieve pixel perfect quality in the work I produce. The kind of detail not many people will notice.
+
+For some reason, my eyes are able to identify those pixel error. And once it does, that imperfect spot became an eyesore and I couldn't get it off my head until I fix it.
+
+My current website is a good example. Lately I've noticed a pixel of white line below the image. You can't see it when the browser is in full screen mode but it is noticable when the browser wide is 50% of the display or in mobile. Square image don't have this issue.
+
+Perhaps something to do with aspect ratio and responsive calculation. Aargh... now I've a thorn in my butt.
+
+(image: pixel-perfect.png)
+
+***
+
+Sometimes I prefer to be less perfect so life will be easier. Are you a perfectionist?
+
+----
+
+Published: 2022-03-12
