@@ -1,3 +1,6 @@
+# jinhoe.com
+My personal site build using Kirby file-based CMS and hosted for free in GitHub Pages.
+
 <img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
 
 **Kirby: the CMS that adapts to any project, loved by developers and editors alike.**
