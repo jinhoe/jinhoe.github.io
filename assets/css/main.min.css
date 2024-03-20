@@ -42,7 +42,7 @@ details > summary {
     --f-weight: 400;
     --f-style: normal;
     --f-scale-s: 0.889;
-    --f-scale-m: 1.2;
+    --f-scale-m: 1.0;           /* --f-scale-m: 1.2; */
     --f-scale-l: 1.4;
     --f-scale-xl: 1.6;
     --f-scale-xxl: 2.2;
@@ -76,7 +76,7 @@ details > summary {
     color: var(--c-text);
 }
 body {
-    padding: 5rem 1.3rem 1.5rem;    /* padding: 5rem 1.5rem 1.5rem; */
+    padding: 5rem 1rem 1.5rem;    /* padding: 5rem 1.5rem 1.5rem; */
 }
 *,
 *::before,
@@ -153,7 +153,8 @@ li > a:not([class]):hover {
     background-position: 100% 100%;
 }
 p + p {
-    text-indent: 1rem;
+    text-indent: 0.5rem;            /* text-indent: 1rem; */
+    margin-top: 0.5rem;             /* Added by Jinhoe */
 }
 hr {
     display: block;
