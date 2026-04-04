@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Student hostel"
-description: "We refurbish, upgrade and beautify properties to provide high quality academic housing."
-permalink: /student-hostel/
-noindex: true
 ---
 
 We refurbish, upgrade and beautify properties to provide high quality academic housing.

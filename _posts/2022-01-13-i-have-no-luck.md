@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "I have no luck"
-date: 2022-01-13
-description: "At a young age, I came to a conclusion that I have no luck. I knowledge the fact that I wasn't born lucky. I can't remember how I came to that conclusion.…"
-permalink: /i-have-no-luck/
 ---
 
 {% include image.html src="/assets/images/i-have-no-luck/i-have-no-luck.jpg" %}

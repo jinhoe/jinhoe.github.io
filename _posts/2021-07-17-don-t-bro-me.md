@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Don’t bro me"
-date: 2021-07-17
-description: "Don’t get me wrong, I still address people as bro from time to time. But not when I’m speaking to a stranger for the first time. Once I felt extremely unc…"
-permalink: /don-t-bro-me/
 ---
 
 Don’t get me wrong, I still address people as bro from time to time. But not when I’m speaking to a stranger for the first time.

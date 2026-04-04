@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "My first batch script"
-date: 2022-07-29
-description: "Background I was assigned to a project in a highly secure air-gapped environment. My working laptop is issued by our client and it changes everytime. We h…"
-permalink: /my-first-batch-script/
 ---
 
 #### Background

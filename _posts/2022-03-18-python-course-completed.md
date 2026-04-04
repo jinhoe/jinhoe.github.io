@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Python course completed"
-date: 2022-03-18
-description: "I felt relieved after completed this super compact Python programming course. It is quite intense for a semi-beginner like me. I said semi because I can u…"
-permalink: /python-course-completed/
 ---
 
 {% include image.html src="/assets/images/python-course-completed/google-it-automation-with-python-certificate-singapore.jpg" %}

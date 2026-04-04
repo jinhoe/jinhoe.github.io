@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Right or easy way"
-date: 2025-01-20
-description: "When working on client project, a lot of decisions need to be made on based on the client’s best interest. Or at least that’s my first priority. However i…"
-permalink: /right-or-easy-way/
 ---
 
 When working on client project, a lot of decisions need to be made on based on the client’s best interest. Or at least that’s my first priority. However it is a fine line between working the right way or the easy way given the tight timeline.

@@ -14,9 +14,6 @@ Every post **must** start with this block of YAML at the very top:
 ---
 layout: post
 title: "Your Post Title"
-date: 2026-04-04
-description: "A short summary for RSS and SEO."
-permalink: /your-post-slug/
 ---
 ```
 

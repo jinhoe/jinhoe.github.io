@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Worse trading nightmare"
-date: 2021-09-04
-description: "Yesterday morning, I received the worst news on my birthday ever. I sold a put option for FBRX few days ago and it has dropped 82% in a night. I've entere…"
-permalink: /worse-trading-nightmare/
 ---
 
 Yesterday morning, I received the worst news on my birthday ever. I sold a put option for FBRX few days ago and it has dropped 82% in a night.

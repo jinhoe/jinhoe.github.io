@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Serviced apartment"
-description: "Every apartment tells a story."
-permalink: /serviced-apartment/
-noindex: true
 ---
 
 Every apartment tells a story.

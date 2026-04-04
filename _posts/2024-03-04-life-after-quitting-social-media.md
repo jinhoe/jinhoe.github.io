@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Life after quitting social media"
-date: 2024-03-04
-description: "Firstly, I haven't quit all social media platforms; I still use X. What I've left behind are Facebook and Instagram. Occasionally, I log in just to take a…"
-permalink: /life-after-quitting-social-media/
 ---
 
 Firstly, I haven't quit all social media platforms; I still use X. What I've left behind are Facebook and Instagram. Occasionally, I log in just to take a look, ensuring my account remains active.

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Job alert script"
-date: 2022-08-13
-description: "Problem Going through tons of job posting in MyCareersFuture portal has been a daily morning chore for me. Despite the site having a job alert feature, it…"
-permalink: /job-alert-script/
 ---
 
 #### Problem

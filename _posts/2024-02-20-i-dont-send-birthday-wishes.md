@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "I don't send birthday wishes"
-date: 2024-02-20
-description: "To be precise, I don't send birthday wishes if I don't feel I'm genuine. Previously I'm not like that. During my agent days, we have a group chat. Initial…"
-permalink: /i-dont-send-birthday-wishes/
 ---
 
 To be precise, I don't send birthday wishes if I don't feel I'm genuine.

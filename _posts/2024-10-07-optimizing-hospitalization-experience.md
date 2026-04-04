@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Optimizing hospitalization experience"
-date: 2024-10-07
-description: "Last night I was staying in a private hospital and I observed several points that can improve the staying experience for the patient. 1. Checking blood pr…"
-permalink: /optimizing-hospitalization-experience/
 ---
 
 Last night I was staying in a private hospital and I observed several points that can improve the staying experience for the patient.

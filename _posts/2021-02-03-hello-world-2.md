@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Hello world 2.0"
-date: 2021-02-03
-description: "I never wanted to blog for 2 reasons.  My poor command of English I’m was never good in English. So one might think in that case I should be good in Manda…"
-permalink: /hello-world-2/
 ---
 
 I never wanted to blog for 2 reasons.

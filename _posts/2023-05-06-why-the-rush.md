@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Why the rush?"
-date: 2023-05-06
-description: "Most of the time when we passed by a playground, my son would asked if he could play and my reply 90% of the time would be a firm no. Today after a simple…"
-permalink: /why-the-rush/
 ---
 
 Most of the time when we passed by a playground, my son would asked if he could play and my reply 90% of the time would be a firm no.

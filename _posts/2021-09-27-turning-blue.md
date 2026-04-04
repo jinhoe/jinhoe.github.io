@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Turning blue"
-date: 2021-09-27
-description: "Today I'm officially a PropNex agent. The reason of changing agency is mainly because I followed my primary school friend Jason Tan. I'm in his team since…"
-permalink: /turning-blue/
 ---
 
 {% include image.html src="/assets/images/turning-blue/joining-propnex-kay-lian.jpg" %}

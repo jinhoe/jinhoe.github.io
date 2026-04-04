@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Personality Test"
-date: 2022-03-11
-description: "I took a 130 questions to know more about myself. Try it to reveal who you really are! Well, 95% accurate! It describe my personality better than me.  The…"
-permalink: /personality-test/
 ---
 
 I took a 130 questions to know more about myself. [Try it](https://www.truity.com/test/type-finder-personality-test-new){:target="_blank" rel="noreferrer"} to reveal who you *really* are!

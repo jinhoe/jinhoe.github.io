@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Developing an app from start to finish"
-date: 2021-06-11
-description: "This morning I watched a video demo about developing an app from start to finish. I'm always curious about the entire process of developing an app since I…"
-permalink: /developing-an-app-from-start-to-finish/
 ---
 
 This morning I watched a video demo about developing an app from start to finish. I'm always curious about the entire process of developing an app since I wasn't sure where or how to start.

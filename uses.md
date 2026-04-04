@@ -1,9 +1,6 @@
 ---
 layout: page
 title: "Uses"
-description: "Sharing the hardware and software I use in my day-to-day life."
-permalink: /uses/
-noindex: true
 ---
 
 Sharing the hardware and software I use in my day-to-day life:

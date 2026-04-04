@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Singapore bans Binance"
-date: 2021-09-07
-description: "Recently MAS ordered Binance.com to stop providing payment services to Singapore residents. I'm a little worried as I have some cryptocurrency with Binanc…"
-permalink: /singapore-bans-binance/
 ---
 
 Recently MAS ordered Binance.com to stop providing payment services to Singapore residents. I'm a little worried as I have some cryptocurrency with Binance.

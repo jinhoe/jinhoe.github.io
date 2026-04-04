@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "SGUnited Mid-Career Pathways Programme"
-date: 2022-03-29
-description: "Yesterday I was offered an opportunity to particpiate a six months full-time attachment programme as   a Devops & Automation Engineer I applied for the po…"
-permalink: /sgunited-mid-career-pathways-programme/
 ---
 
 Yesterday I was offered an opportunity to particpiate a six months full-time attachment programme as 

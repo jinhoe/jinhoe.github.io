@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Handful of friends"
-date: 2021-05-27
-description: "I do not have a lot of friends but I’m not exactly an antisocial person. I just don’t frequently mix around with different new people. I am very “loyal” t…"
-permalink: /handful-of-friends/
 ---
 
 I do not have a lot of friends but I’m not exactly an antisocial person. I just don’t frequently mix around with different new people. I am very “loyal” to my BFFs!

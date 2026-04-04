@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "AWS Certified Cloud Practitioner"
-date: 2022-09-09
-description: "Today I've passed my AWS Certified Cloud Practitioner exam! Yay! It has been a long time since I studied hard for an exam. It is because I have to pay for…"
-permalink: /aws-certified-cloud-practitioner/
 ---
 
 Today I've passed my AWS Certified Cloud Practitioner exam! Yay!

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "SiteGround replacement"
-date: 2024-01-27
-description: "SiteGround is an excellent web hosting company. However I do not want to pay US$ 30/mo for hosting a simple website that has no monetization purpose. So t…"
-permalink: /siteground-replacement/
 ---
 
 [SiteGround](https://www.siteground.com){:target="_blank" rel="noreferrer"} is an excellent web hosting company. However I do not want to pay US$ 30/mo for hosting a simple website that has no monetization purpose. So the search began.

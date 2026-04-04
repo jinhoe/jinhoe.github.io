@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Migrate from Kirby to Jekyll"
-date: 2026-04-04
-description: "I was close to switching my website CMS from Kirby to Notion because of how easy it is to publish content there. I had been using it to document my iOS ap…"
-permalink: /migrate-from-kirby-to-jekyll/
 ---
 
 In the past, writing a post has lots of friction. I need to run Kirby in my laptop, login, copy and paste the content, publish it. Then run a python script to generate it into static pages and commit it to my github.

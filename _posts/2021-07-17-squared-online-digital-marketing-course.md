@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Squared Online Digital Marketing Course"
-date: 2021-07-17
-description: "I’ve completed a five-month Squared Online Digital Marketing Course developed with Google and powered by Avado. I must say it is the most comprehensive on…"
-permalink: /squared-online-digital-marketing-course/
 ---
 
 I’ve completed a five-month Squared Online Digital Marketing Course developed with Google and powered by Avado. I must say it is the most comprehensive online course I’ve attended by far.

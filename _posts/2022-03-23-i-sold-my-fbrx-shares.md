@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "I sold my FBRX shares"
-date: 2022-03-23
-description: "Last september, FBRX gave me a big birthday present by falling 82% in a day. From $30 to $1.5 as of today. This marked my second biggest lost in trading o…"
-permalink: /i-sold-my-fbrx-shares/
 ---
 
 Last september, FBRX gave me a big birthday present by [falling 82% in a day](/worse-trading-nightmare). From $30 to $1.5 as of today. This marked my second biggest lost in trading options at $3000. Ouch! Almost enough cash to buy me 2 Apple Studio Display! Sad, but valuable lesson.

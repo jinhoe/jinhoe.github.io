@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Life Point System"
-date: 2021-10-27
-description: "When I was young, I used to imagine there is a point system in every human life cycle. Here's how it works. Just before reborn, you are given 100 points b…"
-permalink: /life-point-system/
 ---
 
 {% include image.html src="/assets/images/life-point-system/life-point-system.jpg" %}

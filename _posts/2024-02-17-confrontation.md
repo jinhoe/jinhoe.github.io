@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Confrontation"
-date: 2024-02-17
-description: "I dislike conflict. I hate confrontation. If only everyone understands each other and don’t step on the boundaries. Unfortunately human aren’t wired that …"
-permalink: /confrontation/
 ---
 
 I dislike conflict. I hate confrontation. If only everyone understands each other and don’t step on the boundaries. Unfortunately human aren’t wired that way.

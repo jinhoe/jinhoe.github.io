@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "2022 Nasdaq iCal Calendar"
-date: 2022-01-18
-description: "Last night I spent a good 10 minutes staring at the screen only to realise the stock market is not open! So I've added Nasdaq stock market holiday hours t…"
-permalink: /2022-nasdaq-ical-calendar/
 ---
 
 Last night I spent a good 10 minutes staring at the screen only to realise the stock market is not open!

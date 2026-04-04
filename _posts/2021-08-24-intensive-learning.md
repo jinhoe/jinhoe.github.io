@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Intensive learning"
-date: 2021-08-24
-description: "Recently I'm in intensive learning mode. The subject is Options Trading. Just like back in the days when I first discovered chatbot building and how easy …"
-permalink: /intensive-learning/
 ---
 
 Recently I'm in intensive learning mode. The subject is Options Trading.

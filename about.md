@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "About"
-description: "I'm Jinhoe, a DevOps Engineer based in Singapore. My passion lies in crafting efficient systems and automating everyday tasks."
-permalink: /about/
 ---
 
 {% include image.html src="/assets/images/about/lian-jin-hoe.jpeg" caption="My happiest moment" %}

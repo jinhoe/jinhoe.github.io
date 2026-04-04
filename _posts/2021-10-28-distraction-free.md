@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Distraction-free"
-date: 2021-10-28
-description: "Ever since I was introduced minimalism, I became obsessive with decluttering. Not just physical items, but digital stuff as well. The process of declutter…"
-permalink: /distraction-free/
 ---
 
 Ever since I was introduced minimalism, I became obsessive with decluttering. Not just physical items, but digital stuff as well.

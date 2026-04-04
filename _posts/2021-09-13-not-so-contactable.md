@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Not so contactable"
-date: 2021-09-13
-description: "Have you come across commercial website that don’t display a phone number? But with some luck you are able to dig it out after going through pages of FAQs…"
-permalink: /not-so-contactable/
 ---
 
 Have you come across commercial website that don’t display a phone number? But with some luck you are able to dig it out after going through pages of FAQs, Forums, Supporting ticket, you get the idea.

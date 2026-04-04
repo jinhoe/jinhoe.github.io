@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Options trading update #1"
-date: 2021-09-01
-description: "Today has been a busy day for me. I've viewings from morning until now. Finally at 5:22pm manage to sit down and write this post. I'm excited to share wit…"
-permalink: /options-trading-update-1/
 ---
 
 Today has been a busy day for me. I've viewings from morning until now. Finally at 5:22pm manage to sit down and write this post. I'm excited to share with you my Options Trading performance for August! It has exceeded my monthly target of 3% return. Good good good!

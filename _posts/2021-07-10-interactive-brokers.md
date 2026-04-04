@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Interactive Brokers"
-date: 2021-07-10
-description: "I’m officially Interactive Brokers — IBKR fan now. Previously I wrote about Tiger Brokers and why I’m using it but deep down I knew it wasn’t “the one”. T…"
-permalink: /interactive-brokers/
 ---
 
 I’m officially Interactive Brokers — IBKR fan now.

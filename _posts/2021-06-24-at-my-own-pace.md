@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "At my own pace"
-date: 2021-06-24
-description: "Everyone has their own pace of doing things. This may sound common sense but I only truly understand it during my BMT (basic military training). My bigges…"
-permalink: /at-my-own-pace/
 ---
 
 Everyone has their own pace of doing things. This may sound common sense but I only truly understand it during my BMT (basic military training).

@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "I'm a Transonic Achiever, so what?"
-date: 2021-09-02
-description: "Transonic define in Wikipedia is the air flowing around an object at a speed that generates regions of both subsonic and supersonic airflow around that ob…"
-permalink: /i-m-a-transonic-achiever-so-what/
 ---
 
 {% include image.html src="/assets/images/i-m-a-transonic-achiever-so-what/navis-transonic-achiever.jpg" %}

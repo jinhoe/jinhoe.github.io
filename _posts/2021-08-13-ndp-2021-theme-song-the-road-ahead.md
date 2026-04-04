@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "NDP 2021 Theme Song – The Road Ahead"
-date: 2021-08-13
-description: "Ever since Kit Chan’s 家, there isn’t another NDP theme song that catches my attention. Not even the English version - Home. But this year is different. Th…"
-permalink: /ndp-2021-theme-song-the-road-ahead/
 ---
 
 Ever since Kit Chan’s 家, there isn’t another NDP theme song that catches my attention. Not even the English version - Home.

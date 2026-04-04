@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Options trading update #4"
-date: 2021-12-06
-description: "First off, I made some amendment with the past returns. I should have used the stocks assignment value as my capital to calculate returns instead of curre…"
-permalink: /options-trading-update-4/
 ---
 
 {% include image.html src="/assets/images/options-trading-update-4/options-trading-update-4.png" %}

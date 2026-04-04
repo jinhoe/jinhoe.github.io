@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "My ideal automation project"
-date: 2022-02-23
-description: "Not long after I joined the real estate industry. I realized how inefficient the industry is. One of the main reason is we do not have easy access to real…"
-permalink: /my-ideal-automation-project/
 ---
 
 Not long after I joined the real estate industry. I realized how inefficient the industry is. One of the main reason is we do not have easy access to real-time transaction data. That can be a problem because we advertise real estate listings based on information provided by the landlord, and that property could have been leased the next hour or a day after advertised. And 99% of the time, the landlord won't tell you about it.

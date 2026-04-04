@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Quality time"
-date: 2021-12-22
-description: "I had a long lunch with brothers in a hawker centre just now. At my age venue is not important, the company is. Seating at a quiet corner with a cup of ko…"
-permalink: /quality-time/
 ---
 
 I had a long lunch with brothers in a hawker centre just now. At my age venue is not important, the company is.

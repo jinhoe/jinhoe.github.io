@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "A boss that cares"
-date: 2021-06-22
-description: "Today I conducted an office tour. In agent term we call it viewing. After the viewing, my angmo client asked me where is the eateries around here. As usua…"
-permalink: /a-boss-that-cares/
 ---
 
 {% include image.html src="/assets/images/a-boss-that-cares/a-boss-that-cares.jpg" %}

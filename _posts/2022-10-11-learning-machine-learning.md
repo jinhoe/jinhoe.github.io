@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Learning Machine Learning"
-date: 2022-10-11
-description: "Lately I’m busy learning Machine Learning. Machine Learning has always been an interesting subject to me. I’m fascinated by how one can teaches a computer…"
-permalink: /learning-machine-learning/
 ---
 
 Lately I’m busy learning Machine Learning. Machine Learning has always been an interesting subject to me. I’m fascinated by how one can teaches a computer to learn. Isn’t that amazing?

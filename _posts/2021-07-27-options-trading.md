@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Options trading"
-date: 2021-07-27
-description: "I learnt about options trading back in April 2021. And I've been watching countless videos about it. Started my trade at the end of April and has been pay…"
-permalink: /options-trading/
 ---
 
 I learnt about options trading back in April 2021. And I've been watching countless videos about it. Started my trade at the end of April and has been paying for "school fees" along the way.

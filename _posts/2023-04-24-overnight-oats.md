@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Overnight Oats"
-date: 2023-04-24
-description: "Few months after my 168 diet, I reached a state where my weight stabilized. But it’s not my desired weight yet so I knew I had to do something. All along …"
-permalink: /overnight-oats/
 ---
 
 Few months after my 168 diet, I reached a state where my weight stabilized. But it’s not my desired weight yet so I knew I had to do something.

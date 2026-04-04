@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "My perfectionism"
-date: 2021-04-06
-description: "Perfectionism is stopping my video creation. I have a long list of videos that I wanted to create but have not. I do enjoy the process of making video but…"
-permalink: /my-perfectionism/
 ---
 
 Perfectionism is stopping my video creation.

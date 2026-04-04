@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "I deleted singaporeofficespaces.com"
-date: 2024-08-08
-description: "Today I deleted a website that has been with me since 2009. It has helped me generating a lot of leads for my real estate business. Kind of like a cash co…"
-permalink: /i-deleted-singaporeofficespacescom/
 ---
 
 Today I deleted a website that has been with me since 2009. It has helped me generating a lot of leads for my real estate business. Kind of like a cash cow to me.

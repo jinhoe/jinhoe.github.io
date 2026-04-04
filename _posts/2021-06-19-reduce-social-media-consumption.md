@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Reduce social media consumption"
-date: 2021-06-19
-description: "I find social media is a waste of time. The thing is, I’m aware and yet I look at posts, videos and ads. Social media is a great tool for people to connec…"
-permalink: /reduce-social-media-consumption/
 ---
 
 I find social media is a waste of time. The thing is, I’m aware and yet I look at posts, videos and ads.

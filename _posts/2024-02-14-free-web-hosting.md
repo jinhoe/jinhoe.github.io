@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Free web hosting"
-date: 2024-02-14
-description: "10 mins ago, my website is finally up and running! And it is free! So excited that I am writing post at 10:34pm. Last month I mention I will replace SiteG…"
-permalink: /free-web-hosting/
 ---
 
 10 mins ago, my website is finally up and running! And it is free! So excited that I am writing post at 10:34pm. Last month I mention I will [replace SiteGround](/siteground-replacement/)  for good. Started this fun and rewarding project.

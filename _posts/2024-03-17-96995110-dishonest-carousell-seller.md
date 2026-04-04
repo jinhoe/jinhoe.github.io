@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "96995110 Dishonest Carousell seller"
-date: 2024-03-17
-description: "Before transacting on Carousell, I have two criteria to determine trustworthiness. Firstly, I check the account's join date, preferably over 2 years, the …"
-permalink: /96995110-dishonest-carousell-seller/
 ---
 
 Before transacting on Carousell, I have two criteria to determine trustworthiness. Firstly, I check the account's join date, preferably over 2 years, the longer, the better, as scam accounts are likely terminated within a year or two. Next, I look at reviews, ideally more than 10 with a 4 or 5 stars rating.

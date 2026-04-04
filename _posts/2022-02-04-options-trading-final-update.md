@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Options trading final update"
-date: 2022-02-04
-description: "It was a bearish market in January and I expect the bearish trend continue in February. I did not sell any put options, but sold covered calls and credit …"
-permalink: /options-trading-final-update/
 ---
 
 It was a bearish market in January and I expect the bearish trend continue in February. I did not sell any put options, but sold covered calls and credit spread. The returns for January is about 0.8% positive mainly because I am still testing the results of credit spread hence those positions are relatively small.

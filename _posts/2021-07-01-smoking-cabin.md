@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Smoking cabin"
-date: 2021-07-01
-description: "This morning when I read a newspaper article about a smoking point initiative. I’m glad that our government is taking action on a not-urgent-but-health is…"
-permalink: /smoking-cabin/
 ---
 
 {% include image.html src="/assets/images/smoking-cabin/smoking-cabin.png" %}

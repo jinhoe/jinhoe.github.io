@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Social media automation"
-date: 2024-02-21
-description: "This social media automation likely facilitated my transition into a DevOps Engineer role. During the interview, the interviewer expressed curiosity about…"
-permalink: /social-media-automation/
 ---
 
 {% include image.html src="/assets/images/social-media-automation/social-media-automation-5.jpeg" caption="My social media automation flowchart" %}

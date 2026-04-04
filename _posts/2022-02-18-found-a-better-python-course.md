@@ -1,9 +1,6 @@
 ---
 layout: post
 title: "Found a better Python course"
-date: 2022-02-18
-description: "I chanced upon a 6 hours Python course for beginners on YouTube. It was so good that I had to write about it. You see, I'm still learning the Python cours…"
-permalink: /found-a-better-python-course/
 ---
 
 I chanced upon a 6 hours [Python course for beginners](https://youtu.be/_uQrJ0TkZlc){:target="_blank" rel="noreferrer"} on YouTube. It was so good that I had to write about it.
