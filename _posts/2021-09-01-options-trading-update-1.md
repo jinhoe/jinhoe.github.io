@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Options trading update #1"
+date: 2021-09-01
+description: "Today has been a busy day for me. I've viewings from morning until now. Finally at 5:22pm manage to sit down and write this post. I'm excited to share wit…"
+permalink: /options-trading-update-1/
+---
+
+Today has been a busy day for me. I've viewings from morning until now. Finally at 5:22pm manage to sit down and write this post. I'm excited to share with you my Options Trading performance for August! It has exceeded my monthly target of 3% return. Good good good!
+
+{% include image.html src="/assets/images/options-trading-update-1/options-trading-update-1.png" caption="Monthly Return" %}
+
+I started options trading on April/May and got burn pretty bad for the first 2 months. I was using a strategy that doesn't suits my risk appetite. And I didn't have a clear enter and exit plan. So I've adjusted my strategy on July and fine-tuning it on August. Seems like it is working pretty well.
+
+Now my main objective is to maintain a consistency of at least 3% return per month. We shall see.

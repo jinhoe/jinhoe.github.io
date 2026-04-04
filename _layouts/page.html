@@ -1,0 +1,12 @@
+---
+layout: default
+body_class: page-default
+---
+<div class="text">
+    <h1 class="text-title"><a href='/'>{{ page.title }}</a></h1>
+    <div class="text-content">{{ content }}</div>
+</div>                <footer class="footer">
+            <nav class="footer-nav">
+                {% include footer.html is_home=false %}
+            </nav>
+        </footer>

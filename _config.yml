@@ -1,0 +1,37 @@
+title: "Jinhoe's Thoughts"
+description: "My personal space without ads."
+url: "https://jinhoe.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Feed settings
+feed:
+  path: /feed.xml
+
+# Exclude files from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .kirbystatic
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"

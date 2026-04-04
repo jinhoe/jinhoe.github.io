@@ -1,0 +1,21 @@
+---
+layout: post
+title: "NDP 2021 Theme Song – The Road Ahead"
+date: 2021-08-13
+description: "Ever since Kit Chan’s 家, there isn’t another NDP theme song that catches my attention. Not even the English version - Home. But this year is different. Th…"
+permalink: /ndp-2021-theme-song-the-road-ahead/
+---
+
+Ever since Kit Chan’s 家, there isn’t another NDP theme song that catches my attention. Not even the English version - Home.
+
+But this year is different. The song is truly heartwarming. Not only it catches my attention but also touches my heart. In a difficult period like this, this is the perfect song to hold us together and unified as one.
+
+The Road Ahead was written and composed by singer-songwriter Linying and music producer Evan Low. Performed By Linying, Sezairi Sezali, Shye-Anne Brown and Shabir Tabare Alam.
+
+Thank you everyone. The lyrics was well-written and matches with your angelic voices.
+
+{% include video.html url="https://youtu.be/II_5jBaYmGQ" %}
+
+***
+
+Yes Singapore, we’ll do it again.

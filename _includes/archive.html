@@ -1,0 +1,80 @@
+{% comment %}
+Archive component matching the current Kirby archive layout.
+Groups all posts by year and month, shows the latest month outside
+the collapsible <details> section, with the rest inside.
+{% endcomment %}
+
+{% assign all_posts = site.posts %}
+{% assign current_post = include.current_post %}
+
+{% comment %}Determine the latest post's month/year for the "latest" section{% endcomment %}
+{% assign latest_post = all_posts | first %}
+{% assign latest_month = latest_post.date | date: "%B" %}
+{% assign latest_year = latest_post.date | date: "%Y" %}
+
+<nav class="archive archive-posts">
+    <h2 class="archive-title">Want to read something else?</h2>
+    <div class="archive-text"><p>Keep scrolling then</p></div>
+    
+    <div class="archive-latest">
+        <h3 class="archive-subtitle archive-latest-subtitle">{{ latest_month }}'s Thoughts</h3>
+        {% for post in all_posts %}
+            {% assign post_month = post.date | date: "%B" %}
+            {% assign post_year = post.date | date: "%Y" %}
+            {% if post_month == latest_month and post_year == latest_year %}
+                {% assign is_current = false %}
+                {% if current_post and post.url == current_post.url %}
+                    {% assign is_current = true %}
+                {% elsif current_post == null and forloop.first %}
+                    {% assign is_current = true %}
+                {% endif %}
+                <a class="archive-post-link {% if is_current %}archive-post-link-current{% endif %}" href="{{ post.url }}">
+                <p class="archive-post-name">{{ post.title }}</p>
+                <hr class="archive-post-spacer">
+                <p class="archive-post-day">{{ post.date | date: "%-d" | append: "" }}{% assign d = post.date | date: "%-d" | plus: 0 %}{% if d == 1 or d == 21 or d == 31 %}st{% elsif d == 2 or d == 22 %}nd{% elsif d == 3 or d == 23 %}rd{% else %}th{% endif %}</p>
+            </a>
+            {% endif %}
+        {% endfor %}
+    </div>
+    
+    <details>
+        <summary>Show More</summary>
+
+        {% assign prev_year = "" %}
+        {% assign prev_month = "" %}
+        {% for post in all_posts %}
+            {% assign post_month = post.date | date: "%B" %}
+            {% assign post_year = post.date | date: "%Y" %}
+            
+            {% comment %}Skip posts in the latest month (already shown above){% endcomment %}
+            {% if post_month == latest_month and post_year == latest_year %}
+                {% continue %}
+            {% endif %}
+
+            {% comment %}Show year+month header when they change{% endcomment %}
+            {% if post_month != prev_month or post_year != prev_year %}
+            <h3 class="archive-subtitle">
+                {% if post_year != prev_year %}
+                    <span class='archive-year'>{{ post_year }}</span>
+                {% endif %}
+                <span class="archive-month">{{ post_month }}</span>
+            </h3>
+            {% endif %}
+
+            {% assign is_current = false %}
+            {% if current_post and post.url == current_post.url %}
+                {% assign is_current = true %}
+            {% endif %}
+              
+            <a class="archive-post-link {% if is_current %}archive-post-link-current{% endif %}" href="{{ post.url }}">
+                <p class="archive-post-name">{{ post.title }}</p>
+                <hr class="archive-post-spacer">
+                <p class="archive-post-day">{{ post.date | date: "%-d" | append: "" }}{% assign d = post.date | date: "%-d" | plus: 0 %}{% if d == 1 or d == 21 or d == 31 %}st{% elsif d == 2 or d == 22 %}nd{% elsif d == 3 or d == 23 %}rd{% else %}th{% endif %}</p>
+            </a>
+        
+            {% assign prev_year = post_year %}
+            {% assign prev_month = post_month %}
+        {% endfor %}
+
+    </details>
+</nav>

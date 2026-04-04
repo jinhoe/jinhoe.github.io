@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Turning blue"
+date: 2021-09-27
+description: "Today I'm officially a PropNex agent. The reason of changing agency is mainly because I followed my primary school friend Jason Tan. I'm in his team since…"
+permalink: /turning-blue/
+---
+
+{% include image.html src="/assets/images/turning-blue/joining-propnex-kay-lian.jpg" %}
+
+Today I'm officially a PropNex agent. The reason of changing agency is mainly because I followed my primary school friend Jason Tan. I'm in his team since day one. Since my childhood days he has been always been a trustworthy friend. Down-to-earth personality and stay humble despite his success.
+
+Honestly speaking there is no different to me. I'm a commercial real estate agent and ERA, OrangeTee or PropNex are all about residential projects. Therefore the tools, apps, trainings are catered for residential agents. Anyhow it doesn't affect me at all because I believe result comes from the agent, not the agency. A top agent will do well in any agency. A survivor will survive in any environment. If I did not receive any result, I am the only one to be blame. Not the agency, not my leader, not lack of training or an app.
+
+Anyway I appreciate PropNex appointed photographer. Made me go all the way down to Suntec in Full Battle Order. At least it is worth it. I like my corporate photo a lot.
+
+***
+
+For some reason, OrangeTee photographer doesn't seems to like me. I looked like a zombie.
