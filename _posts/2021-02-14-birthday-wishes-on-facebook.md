@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Birthday wishes on Facebook"
+date: 2021-02-14 00:00:00 +0800
 ---
 
 I used to send my Facebook friend a happy birthday message, when Facebook told me to. Or rather when Facebook reminded me today is their birthday.

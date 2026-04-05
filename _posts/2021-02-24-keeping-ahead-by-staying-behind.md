@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Keeping ahead by staying behind"
+date: 2021-02-24 00:00:00 +0800
 ---
 
 I chance upon this video. The title caught my attention – [Keeping ahead by saying behind](https://youtu.be/9LuCKQS4YjQ){:target="_blank" rel="noreferrer"}. I wonder how one can survive by staying behind technology. I’m curious why this Kyoto bag-maker refuses to sell his products online.

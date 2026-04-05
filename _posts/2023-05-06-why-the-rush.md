@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Why the rush?"
+date: 2023-05-06 00:00:00 +0800
 ---
 
 Most of the time when we passed by a playground, my son would asked if he could play and my reply 90% of the time would be a firm no.

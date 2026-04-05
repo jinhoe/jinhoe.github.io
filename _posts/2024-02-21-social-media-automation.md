@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Social media automation"
+date: 2024-02-21 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/social-media-automation/social-media-automation-5.jpeg" caption="My social media automation flowchart" %}

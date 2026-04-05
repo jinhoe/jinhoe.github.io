@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Teaching my son about money"
+date: 2021-09-06 00:00:00 +0800
 ---
 
 I knew one day I have to teach my son about money. So this weekend I had the opportunity. Last month I bought Nintendo Switch for me, ahem...  my son. Very soon we both got a little bored with the games. I was very tempted to buy a few more new games but hesitated. I don't want my son to have the impression that new games just fell from the sky. Nintendo Switch game is not cheap and can cost anywhere between $30 to $70.

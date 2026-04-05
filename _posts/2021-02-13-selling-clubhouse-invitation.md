@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Selling Clubhouse invitation"
+date: 2021-02-13 00:00:00 +0800
 ---
 
 Following a friend of mine that sold 3 of his Clubhouse invites for $50. I decided to join in the fun since I do not have any friend interested in this new viral app.

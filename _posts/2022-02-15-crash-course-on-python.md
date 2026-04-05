@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crash Course on Python"
+date: 2022-02-15 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/crash-course-on-python/crash-course-on-python-certificate.jpg" %}

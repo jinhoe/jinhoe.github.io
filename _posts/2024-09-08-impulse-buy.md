@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Impulse buy"
+date: 2024-09-08 00:00:00 +0800
 ---
 
 I consider myself a thrifty person. I eat cheap food drink cheap kopi. Hardly buy unnecessary items. BUT, Apple product is my weak spot. Damn it Apple.

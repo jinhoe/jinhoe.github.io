@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Not so contactable"
+date: 2021-09-13 00:00:00 +0800
 ---
 
 Have you come across commercial website that don’t display a phone number? But with some luck you are able to dig it out after going through pages of FAQs, Forums, Supporting ticket, you get the idea.

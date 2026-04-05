@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "16:8 Diet 6 months later"
+date: 2022-06-02 00:00:00 +0800
 ---
 
 Woo, after 6 months of 16:8 diet, I am very satisfied with the result. I’ve lost 4.6kg and 4cm waist circumference. 

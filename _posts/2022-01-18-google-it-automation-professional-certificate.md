@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Google IT Automation Professional Certificate"
+date: 2022-01-18 01:00:00 +0800
 ---
 
 Last week I was pretty excited when I read an article about [Google launches professional certificates in Singapore](https://www.businesstimes.com.sg/garage/google-launches-professional-certificates-in-singapore-forms-employer-consortium){:target="_blank" rel="noreferrer"}. I'm curious what kind of courses they are offering this time. Data Analytics, IT Support, IT Automation and UX Design.

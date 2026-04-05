@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Turning blue"
+date: 2021-09-27 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/turning-blue/joining-propnex-kay-lian.jpg" %}

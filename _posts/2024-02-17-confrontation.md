@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Confrontation"
+date: 2024-02-17 00:00:00 +0800
 ---
 
 I dislike conflict. I hate confrontation. If only everyone understands each other and don’t step on the boundaries. Unfortunately human aren’t wired that way.

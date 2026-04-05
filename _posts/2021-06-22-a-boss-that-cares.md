@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A boss that cares"
+date: 2021-06-22 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/a-boss-that-cares/a-boss-that-cares.jpg" %}

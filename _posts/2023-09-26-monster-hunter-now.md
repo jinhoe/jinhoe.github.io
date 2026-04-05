@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Monster Hunter Now"
+date: 2023-09-26 00:00:00 +0800
 ---
 
 Lately I'm into Monster Hunter Now. It can be a good family bonding acitivity (like Pokemon Go) during the weekend if one can manage the addiction properly. Now my son talks to me about the monsters and weapons all the time. I also spread the virus to friends and colleagues, lol. Good things must share right? Haha.

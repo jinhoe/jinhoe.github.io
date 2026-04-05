@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Options trading update #2"
+date: 2021-10-01 00:00:00 +0800
 ---
 
 This morning I was very excited to tabulate my performance for September. I quickly finish my breakfast, jump into my computer and start pulling data. And I did 5% last month.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I have no luck"
+date: 2022-01-13 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/i-have-no-luck/i-have-no-luck.jpg" %}

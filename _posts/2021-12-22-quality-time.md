@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Quality time"
+date: 2021-12-22 00:00:00 +0800
 ---
 
 I had a long lunch with brothers in a hawker centre just now. At my age venue is not important, the company is.

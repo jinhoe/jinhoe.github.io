@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IIS Hardening"
+date: 2022-08-20 00:00:00 +0800
 ---
 
 Hardening is one of the IT jargon that I have heard multiple times in my project but wasn't clear what it does. Accordingly to my senior, it is to "harden" the system such that it is hard for hackers to penetrate. In short, for security purpose.

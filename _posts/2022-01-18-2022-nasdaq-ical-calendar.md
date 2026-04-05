@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2022 Nasdaq iCal Calendar"
+date: 2022-01-18 00:00:00 +0800
 ---
 
 Last night I spent a good 10 minutes staring at the screen only to realise the stock market is not open!

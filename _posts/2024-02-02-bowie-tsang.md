@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "曾宝仪"
+date: 2024-02-02 00:00:00 +0800
 ---
 
 最近看了权怡凤的[《权听你说》](https://youtu.be/kSS1etvI3GM?si=qqRJyQ4_LjiAbwK9){:target="_blank" rel="noreferrer"}跟曾宝仪的一个访问让我更深入的了解她，其实我还蛮喜欢她的人品，我觉得她很真，很有智慧也很善良。所以过后就搜寻更多她的视频。

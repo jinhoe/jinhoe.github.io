@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Discord is WhatsApp’s future"
+date: 2021-07-11 00:00:00 +0800
 ---
 
 Lately I noticed a lot of YouTubers are having a Discord group chat. So I joined one to understand what was it all about. Immediately I'm amazed by how organized the messages are.

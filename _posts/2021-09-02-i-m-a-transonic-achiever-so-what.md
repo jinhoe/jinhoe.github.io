@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I'm a Transonic Achiever, so what?"
+date: 2021-09-02 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/i-m-a-transonic-achiever-so-what/navis-transonic-achiever.jpg" %}

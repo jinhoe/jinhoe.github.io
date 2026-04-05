@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Worse trading nightmare"
+date: 2021-09-04 00:00:00 +0800
 ---
 
 Yesterday morning, I received the worst news on my birthday ever. I sold a put option for FBRX few days ago and it has dropped 82% in a night.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Job alert script"
+date: 2022-08-13 00:00:00 +0800
 ---
 
 #### Problem

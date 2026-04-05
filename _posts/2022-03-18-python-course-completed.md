@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Python course completed"
+date: 2022-03-18 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/python-course-completed/google-it-automation-with-python-certificate-singapore.jpg" %}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reduce social media consumption"
+date: 2021-06-19 00:00:00 +0800
 ---
 
 I find social media is a waste of time. The thing is, I’m aware and yet I look at posts, videos and ads.

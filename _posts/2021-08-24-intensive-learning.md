@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Intensive learning"
+date: 2021-08-24 00:00:00 +0800
 ---
 
 Recently I'm in intensive learning mode. The subject is Options Trading.

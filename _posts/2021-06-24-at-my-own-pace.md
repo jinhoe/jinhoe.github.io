@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "At my own pace"
+date: 2021-06-24 00:00:00 +0800
 ---
 
 Everyone has their own pace of doing things. This may sound common sense but I only truly understand it during my BMT (basic military training).

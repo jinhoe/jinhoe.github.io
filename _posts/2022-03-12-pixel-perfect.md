@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pixel perfect"
+date: 2022-03-12 00:00:00 +0800
 ---
 
 Today I found the best way to illustrate the perfectionism in me. I always strive to achieve pixel perfect quality in the work I produce. The kind of detail not many people will notice.

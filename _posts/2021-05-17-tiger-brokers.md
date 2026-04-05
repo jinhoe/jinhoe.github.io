@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Tiger Brokers"
+date: 2021-05-17 00:00:00 +0800
 ---
 
 I’ve been using UOB Kay Hian to trade shares for one thousand years. And their user interface has been the same since day one. I can understand why. All the players in this field are the same. All having shitty app and outdated web interface. And there is no reason to spend money just to improve a simple buy/sell function.

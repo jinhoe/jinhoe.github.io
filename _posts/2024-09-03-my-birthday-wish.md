@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My birthday wish"
+date: 2024-09-03 00:00:00 +0800
 ---
 
 This is one of the birthday where I wasn’t happy. Far from it. Some unpleasant things happened this year. I also felt my body is aging and am starting to embrace it and learn to deal with it.

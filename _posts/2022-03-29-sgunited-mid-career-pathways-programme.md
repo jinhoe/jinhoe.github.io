@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SGUnited Mid-Career Pathways Programme"
+date: 2022-03-29 00:00:00 +0800
 ---
 
 Yesterday I was offered an opportunity to particpiate a six months full-time attachment programme as 

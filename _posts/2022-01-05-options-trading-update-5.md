@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Options trading update #5"
+date: 2022-01-05 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/options-trading-update-5/options-trading-update-5.jpg" %}

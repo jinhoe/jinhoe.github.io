@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello world 2.0"
+date: 2021-02-03 00:00:00 +0800
 ---
 
 I never wanted to blog for 2 reasons.

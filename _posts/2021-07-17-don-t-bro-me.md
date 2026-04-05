@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Don’t bro me"
+date: 2021-07-17 00:00:00 +0800
 ---
 
 Don’t get me wrong, I still address people as bro from time to time. But not when I’m speaking to a stranger for the first time.

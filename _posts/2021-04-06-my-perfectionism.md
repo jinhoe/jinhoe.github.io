@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My perfectionism"
+date: 2021-04-06 00:00:00 +0800
 ---
 
 Perfectionism is stopping my video creation.

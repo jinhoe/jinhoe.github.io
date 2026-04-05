@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Keep trying"
+date: 2022-05-09 00:00:00 +0800
 ---
 
 Last Saturday I went to IKEA with my family with the intention of buying kitchen stuff not sofa. We have been wanting to change our 3-seater sofa to something smaller, compact. Because my wife is very choosy when comes to sofa, so it is not that straight forward when buying one. We have been casually looking for it since last year. Selected a model but it was already obsolete.

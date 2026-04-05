@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Semi-retire from social media"
+date: 2021-09-13 01:00:00 +0800
 ---
 
 I wrote about my attempt of [reducing social media consumption](/reduce-social-media-consumption). So far removing apps from Home Screen seems to be effective. My social media screen time has reduced to 30 mins or less a day.

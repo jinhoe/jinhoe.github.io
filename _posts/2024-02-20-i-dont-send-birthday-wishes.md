@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I don't send birthday wishes"
+date: 2024-02-20 00:00:00 +0800
 ---
 
 To be precise, I don't send birthday wishes if I don't feel I'm genuine.

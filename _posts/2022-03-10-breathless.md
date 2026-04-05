@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Breathless"
+date: 2022-03-10 00:00:00 +0800
 ---
 
 On day 7 after I'm Covid-19 positive, I experienced shortness of breath. What worrying me was I'm not exercising, simply at rest. At night was worse, I can’t get into sleep. Every breath I took was like breathing through a handkerchief. It was hard. Felt like having an Asthma attack when I was a little boy. My main concern was what if this is permanent? What if I am going to breath that hard for the rest of my life.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My first batch script"
+date: 2022-07-29 00:00:00 +0800
 ---
 
 #### Background

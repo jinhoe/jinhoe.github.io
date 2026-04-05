@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I deleted singaporeofficespaces.com"
+date: 2024-08-08 00:00:00 +0800
 ---
 
 Today I deleted a website that has been with me since 2009. It has helped me generating a lot of leads for my real estate business. Kind of like a cash cow to me.

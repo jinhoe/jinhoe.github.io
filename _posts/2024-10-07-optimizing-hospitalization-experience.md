@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Optimizing hospitalization experience"
+date: 2024-10-07 01:00:00 +0800
 ---
 
 Last night I was staying in a private hospital and I observed several points that can improve the staying experience for the patient.

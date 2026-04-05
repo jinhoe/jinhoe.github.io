@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Smoking cabin"
+date: 2021-07-01 00:00:00 +0800
 ---
 
 {% include image.html src="/assets/images/smoking-cabin/smoking-cabin.jpg" %}

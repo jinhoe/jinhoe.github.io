@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Huat Ah in funeral"
+date: 2023-12-20 00:00:00 +0800
 ---
 
 It all began during Chinese New Year, with people joyously shouting "Huat Ah" during the festive Lo Hei. The trend then extended to birthday celebrations, housewarming events, and even corporate dinners.

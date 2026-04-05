@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Distraction-free"
+date: 2021-10-28 00:00:00 +0800
 ---
 
 Ever since I was introduced minimalism, I became obsessive with decluttering. Not just physical items, but digital stuff as well.
