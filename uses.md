@@ -3,6 +3,8 @@ layout: page
 title: "Uses"
 ---
 
+*Updated: April 2026*
+
 Sharing the hardware and software I use in my day-to-day life:
 
 ### Study room
@@ -43,16 +45,16 @@ Sharing the hardware and software I use in my day-to-day life:
 - **Shortcuts** - *I created some shortcuts to make my life easier. I will share them someday.*
 
 ### Default app or service
-Email: Apple Mail
-Notes: Apple Notes
-To-Do: Apple Reminders
-Photo Management: Apple Photos
-Photo Editing: Apple Photos (Vivid Cool 50)
-Calendar: Apple Calendar
-Cloud File Storage: iCloud
-Contacts: Apple Contacts
-Browser: Safari
-Chat: WhatsApp, iMessage & Telegram for closed group
-Word Processing: Google Docs
-Spreadsheets: Google Sheets
-Presentations: Apple Keynote
+- **Email** - *Apple Mail*
+- **Notes** - *Apple Notes*
+- **To-Do** - *Apple Reminders*
+- **Photo Management** - *Apple Photos*
+- **Photo Editing** - *Apple Photos (Vivid Cool 50)*
+- **Calendar** - *Apple Calendar*
+- **Cloud File Storage** - *iCloud*
+- **Contacts** - *Apple Contacts*
+- **Browser** - *Safari*
+- **Chat** - *WhatsApp, iMessage & Telegram for closed group*
+- **Word Processing** - *Google Docs*
+- **Spreadsheets** - *Google Sheets*
+- **Presentations** - *Apple Keynote*

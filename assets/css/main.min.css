@@ -281,6 +281,15 @@ figcaption {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.07), 0 15px 25px rgba(100, 100, 100, 0.3);
     margin: auto;
 }
+.post-date {
+    font-size: calc(var(--f-size) * var(--f-scale-s));
+    color: var(--c-text-mid);
+    margin-top: -2.25rem;
+    margin-bottom: 2rem;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: var(--l-narrow);
+}
 .text {
     margin-bottom: 6rem;
 }

@@ -4,6 +4,7 @@ body_class: page-home
 ---
 <div class="text">
     <h1 class="text-title">{{ site.posts.first.title }}</h1>
+    <div class="post-date">{{ site.posts.first.date | date: "%B %-d, %Y" }}</div>
     <div class="text-content">{{ site.posts.first.content }}</div>
 </div>{% include archive.html current_post=null %}
                 <footer class="footer">
