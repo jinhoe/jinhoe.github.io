@@ -11,7 +11,7 @@ My current website is a good example. Lately I've noticed a pixel of white line 
 
 Perhaps something to do with aspect ratio and responsive calculation. Aargh... now I've a thorn in my butt.
 
-{% include image.html src="/assets/images/pixel-perfect/pixel-perfect.png" %}
+{% include image.html src="/assets/images/pixel-perfect/pixel-perfect.jpg" %}
 
 ***
 

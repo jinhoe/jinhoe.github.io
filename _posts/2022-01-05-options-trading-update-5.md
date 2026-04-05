@@ -3,7 +3,7 @@ layout: post
 title: "Options trading update #5"
 ---
 
-{% include image.html src="/assets/images/options-trading-update-5/options-trading-update-5.png" %}
+{% include image.html src="/assets/images/options-trading-update-5/options-trading-update-5.jpg" %}
 
 In December the market was very bad. There was so much uncertainly going on. Growth stocks were down 40-60%. I only sold call options on my assigned stocks and since price has went down signficantly, the premium is little. On some position I had to lower the strike price to below assigned strike.
 

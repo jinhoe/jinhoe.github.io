@@ -5,7 +5,7 @@ title: "Personality Test"
 
 I took a 130 questions to know more about myself. [Try it](https://www.truity.com/test/type-finder-personality-test-new){:target="_blank" rel="noreferrer"} to reveal who you *really* are!
 
-{% include image.html src="/assets/images/personality-test/personality-test-intj-the-mastermind.jpg.webp" caption="I'm INTJ - The Mastermind" %}
+{% include image.html src="/assets/images/personality-test/personality-test-intj-the-mastermind.jpg" caption="I'm INTJ - The Mastermind" %}
 
 Well, 95% accurate! It describe my personality better than me.
 

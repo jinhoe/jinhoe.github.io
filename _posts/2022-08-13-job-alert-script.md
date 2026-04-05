@@ -27,7 +27,7 @@ The action happens when I'm preparing my son for school. I love automation! The 
 
 4. **expected_salary** - If the minimum salary is below my expected amount, the job post will be ignore.
 
-{% include image.html src="/assets/images/job-alert-script/job-alert-email-screenshot.png" caption="This is the daily curated job posting email I receive in my inbox" %}
+{% include image.html src="/assets/images/job-alert-script/job-alert-email-screenshot.jpg" caption="This is the daily curated job posting email I receive in my inbox" %}
 
 #### Next Challenge
 When this project is working well, I proudly offered to help my wife shorten her job searching time. However she threw me another request. "What about [JobStreet](https://www.jobstreet.com.sg){:target="_blank" rel="noreferrer"}?", she asked.

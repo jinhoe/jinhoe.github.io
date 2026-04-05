@@ -3,7 +3,7 @@ layout: post
 title: "Options trading update #4"
 ---
 
-{% include image.html src="/assets/images/options-trading-update-4/options-trading-update-4.png" %}
+{% include image.html src="/assets/images/options-trading-update-4/options-trading-update-4.jpg" %}
 
 First off, I made some amendment with the past returns. I should have used the stocks assignment value as my capital to calculate returns instead of current value. And one thing to note is that I will have cash in the account that is meant for stock purchase  not options trading. Since I only have one brokerage account I will account those cash as part of my options trading capital to make my life easier.
 

@@ -31,7 +31,7 @@ The only two things I don’t like is their mobile app and delayed price. Their 
 
 I avoid IBKR horrible mobile app by using their desktop Web Portal to trade instead. Fortunately the Web Portal UI is a lot cleaner and usable.
 
-{% include image.html src="/assets/images/interactive-brokers/ibkr-singapore.png" caption="IBKR Web Portal" %}
+{% include image.html src="/assets/images/interactive-brokers/ibkr-singapore.jpg" caption="IBKR Web Portal" %}
 
 The 2nd issue is lack of real-time price data. There is a delay of 15 mins. Almost a deal breaker for me since I’ve been enjoying real-time price from Tiger Brokers app. So my work around for now is use Tiger Brokers app to monitor real-time price. Luckily stock purchase in IBKR is based on real-time market price even though the display shows delayed price.
 

@@ -5,7 +5,7 @@ title: "Options trading update #2"
 
 This morning I was very excited to tabulate my performance for September. I quickly finish my breakfast, jump into my computer and start pulling data. And I did 5% last month.
 
-{% include image.html src="/assets/images/options-trading-update-2/options-trading-update-2.png" %}
+{% include image.html src="/assets/images/options-trading-update-2/options-trading-update-2.jpg" %}
 
 Should I celebrate? No, not at all. I made [my worst trade](worse-trading-nightmare){:target="_blank" rel="noreferrer"} just a few days into September. So the high premium came from those trade. In reality, I was assigned $5000 worth of stocks which is now value around $1100. But until I sold them away, they are simply unrealized losses. Which means I may have a chance to turn the table around.
 

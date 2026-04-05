@@ -3,7 +3,7 @@ layout: post
 title: "Options trading update #3"
 ---
 
-{% include image.html src="/assets/images/options-trading-update-3/options-trading-update-3.png" %}
+{% include image.html src="/assets/images/options-trading-update-3/options-trading-update-3.jpg" %}
 
 October has been a great month. Stocks has been going through the roof. It’s good for long term stocks holding but bad for selling put options.
 

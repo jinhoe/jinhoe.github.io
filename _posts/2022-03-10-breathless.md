@@ -15,5 +15,5 @@ Thankfully I felt slightly better that day and my wife use Grab service to colle
 
 I'll leave the name card of the chinese physician below and for Google map click [here](https://goo.gl/maps/Vjg2k8uPbyT5q2tf9){:target="_blank" rel="noreferrer"}.
 
-{% include image.html src="/assets/images/breathless/covid-19-recovery-chinese-medicine.png" %}
-{% include image.html src="/assets/images/breathless/covid-19-breathless-chinese-medicine.png" %}
+{% include image.html src="/assets/images/breathless/covid-19-recovery-chinese-medicine.jpg" %}
+{% include image.html src="/assets/images/breathless/covid-19-breathless-chinese-medicine.jpg" %}
