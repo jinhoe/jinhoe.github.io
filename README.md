@@ -1,39 +1,125 @@
 # jinhoe.com
-My personal site build using Kirby file-based CMS and hosted for free in GitHub Pages.
 
-<img src="http://getkirby.com/assets/images/github/plainkit.jpg" width="300">
+## 1. About this site
 
-**Kirby: the CMS that adapts to any project, loved by developers and editors alike.**
-The Plainkit is a minimal Kirby setup with the basics you need to start a project from scratch. It is the ideal choice if you are already familiar with Kirby and want to start step-by-step.
-
-You can learn more about Kirby at [getkirby.com](https://getkirby.com).
-
-### Try Kirby for free
-
-You can try Kirby and the Plainkit on your local machine or on a test server as long as you need to make sure it is the right tool for your next project. … and when you’re convinced, [buy your license](https://getkirby.com/buy).
-
-### Get going
-
-Read our guide on [how to get started with Kirby](https://getkirby.com/docs/guide/quickstart).
-
-You can [download the latest version](https://github.com/getkirby/plainkit/archive/main.zip) of the Plainkit.
-If you are familiar with Git, you can clone Kirby's Plainkit repository from Github.
-
-    git clone https://github.com/getkirby/plainkit.git
-
-## What's Kirby?
-
--   **[getkirby.com](https://getkirby.com)** – Get to know the CMS.
--   **[Try it](https://getkirby.com/try)** – Take a test ride with our online demo. Or download one of our kits to get started.
--   **[Documentation](https://getkirby.com/docs/guide)** – Read the official guide, reference and cookbook recipes.
--   **[Issues](https://github.com/getkirby/kirby/issues)** – Report bugs and other problems.
--   **[Feedback](https://feedback.getkirby.com)** – You have an idea for Kirby? Share it.
--   **[Forum](https://forum.getkirby.com)** – Whenever you get stuck, don't hesitate to reach out for questions and support.
--   **[Discord](https://chat.getkirby.com)** – Hang out and meet the community.
--   **[Mastodon](https://mastodon.social/@getkirby)** – Spread the word.
--   **[Instagram](https://www.instagram.com/getkirby/)** – Share your creations: #madewithkirby.
+This is the personal website and blog of Jinhoe, built with Jekyll and hosted on GitHub Pages. It was recently migrated from a Kirby-based static site to a standard Jekyll structure for simplicity, performance, and easier publishing workflows.
 
 ---
 
-© 2009 Bastian Allgeier
-[getkirby.com](https://getkirby.com) · [License agreement](https://getkirby.com/license)
+## 2. Manual Posting Workflow
+
+### Create Post
+
+Create a new Markdown file in the `_posts/` directory. 
+**Filename Pattern:** `YYYY-MM-DD-slug.md` (e.g., `_posts/2026-04-04-my-new-post.md`)
+
+#### Add the Front Matter
+Every post **must** start with this block of YAML at the very top:
+
+```yaml
+---
+layout: post
+title: "Your Post Title"
+---
+```
+
+#### Add Link
+Use standard Markdown syntax for adding links. To ensure a link opens in a new tab securely, you can use the target attribute syntax:
+
+```markdown
+[Link Text](https://example.com){:target="_blank" rel="noreferrer"}
+```
+
+#### Add Media
+1. Create a folder for your post's images: `assets/images/your-post-slug/`
+2. Add your image files to that folder.
+3. Use the following include tag in your Markdown file:
+
+```liquid
+{% include image.html src="/assets/images/your-post-slug/photo.jpg" caption="Your caption here" %}
+```
+
+> **Note:** Ensure you use standard straight quotes (`"`) inside Liquid tags, as Jekyll does not parse curly/smart quotes (`“ ”`).
+
+#### Share Video Link
+Use this include tag for embedding YouTube or Vimeo URLs:
+
+```liquid
+{% include video.html url="https://vimeo.com/your-video-id" %}
+```
+
+### Delete Post
+
+If you need to completely remove a post:
+1. **Delete the Post File:** Locate and delete the `.md` file from the `_posts/` directory.
+2. **Clean Up Media:** Delete its corresponding media folder in `assets/images/your-post-slug/` to free up space.
+
+### Preview Locally
+
+Run this in your terminal to check for errors and see the design:
+```bash
+bundle exec jekyll serve
+```
+Then open: <http://127.0.0.1:4000/>
+
+### Publish to GitHub
+
+When ready, commit and push your changes to GitHub. Your site will automatically build and update on GitHub Pages.
+
+```bash
+git add .
+git commit -m "Add new post: [Your Title]"
+git push
+```
+
+---
+
+## 3. Automation Posting Workflow
+
+### Create Post
+
+You can automate the post creation process (including formatting, folder management, and image optimizations) using the configured macOS Folder Action.
+
+**Steps to Auto-Publish:**
+
+1. **Write the Post:** Create a basic Markdown file anywhere on your computer.
+   - **First Line:** Must be the Post Title (this line will be extracted and converted to your front matter and URL slug).
+   - **Body:** Write your content normally below the title. Use the **shorthand syntax** below for links, images, and videos.
+2. **Add Images (Optional):** 
+   - Place your raw, high-resolution source images into the `publish/step_1_image/` folder.
+   - In your Markdown, reference them using the `@image` shorthand (see below).
+3. **Trigger the Automation:** Drop the completed Markdown file into the `publish/step_2_post/` folder.
+
+#### Shorthand Syntax
+
+Instead of typing verbose Liquid/Kramdown markup, use these shorthands — the publish script converts them automatically:
+
+| What you type | What it becomes |
+|---|---|
+| `@[Text](url)` | `[Text](url){:target="_blank" rel="noreferrer"}` |
+| `@image(file.jpg)` | `{% include image.html src="/assets/images/slug/file.jpg" %}` |
+| `@image(file.jpg "caption")` | `{% include image.html src="/assets/images/slug/file.jpg" caption="caption" %}` |
+| `@video(url)` | `{% include video.html url="url" %}` |
+
+**Example draft post:**
+```markdown
+My First Post
+
+Check out @[this blog](https://example.com) for more info.
+
+Here's a photo:
+@image(sunset.jpg "Beautiful sunset")
+
+And a video:
+@video(https://www.youtube.com/watch?v=abc123)
+```
+
+**What the Automation Does:**
+1. Generates a URL-safe slug from the title block.
+2. Replaces smart quotes in the body with standard quotes (to prevent Liquid parsing errors).
+3. Injects the requisite Jekyll Front Matter.
+4. Locates your images in `step_1_image`, downscales them to a max width of 1200px, converts them to compressed JPEGs (80% quality), and moves them to `assets/images/<generated-slug>/`.
+5. Replaces the placeholder `slug` text in your image tags to point to the real path.
+6. Renames your post to the `YYYY-MM-DD-slug.md` format and moves it into `_posts/`.
+7. Deletes the original source files remaining in the `publish` directory.
+8. Sends you a macOS notification when finished!
