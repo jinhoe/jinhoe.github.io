@@ -17,7 +17,7 @@ I'm a proud Singaporean of Chinese descent. From a young age, I love art and bei
 
 My career journey began back in 2004 when I started as a sales engineer, where I learned the fundamentals of doing business. However, my entrepreneurial spirit soon took over, leading me to launch my first e-commerce store.
 
-While that venture didn't pan out as expected, it was during the challenging times of the Great Recession in 2009 that I transitioned into the real estate business. You can watch a video where I share [how I become a real estate agent](https://youtu.be/oRXByJ-QvnM){:target="_blank" rel="noreferrer"}.
+While that venture didn't pan out as expected, it was during the challenging times of the Great Recession in 2009 that I transitioned into the real estate business.
 
 As an office leasing agent, I take on various roles, ranging from creating digital content to assist my clients in finding their dream offices. But my journey doesn't stop there. I also ventured into the [student hostel](/student-hostel) and [serviced apartment](/serviced-apartment) businesses, although I exited that chapter in 2017.
 
@@ -29,7 +29,7 @@ The COVID-19 pandemic had a profound impact on my real estate business. It was d
 
 #### What I do now
 
-Today, I enjoy my work as a DevOps Engineer, helping clients automate their day-to-day routine tasks, which makes their lives easier and more efficient. When the sun sets and my son is asleep, you'll find me watching Netflix, taking online courses, and trading options.
+Today, I enjoy my work as a DevOps Engineer, helping clients automate their day-to-day routine tasks, which makes their lives easier and more efficient. When the sun sets and my son is asleep, you'll find me watching Netflix, taking online courses, and working on fun projects.
 
 ## Connect {#contact}
 
