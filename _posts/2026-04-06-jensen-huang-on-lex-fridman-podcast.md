@@ -12,7 +12,7 @@ These are the phrases he said in the podcast that's worth remembering:
 
 > We need things to be as complex as necessary, but as simple as possible.
 
-Very often I witness people making things unnecessarily complex. Literally for no reason. The truth is, they don't bother to understand **why** they are doing it.￼
+Very often I witness people making things unnecessarily complex. Literally for no reason. The truth is, they don't bother to understand **why** they are doing it.
 
 In Japan they have a root cause analysis method call the "Why-Why" chart. Basically it is a continuation of asking why five times which help break down the problem to identify the root cause. It was taught by my previous manager who worked in a Japanese company for over 20 years.
 
