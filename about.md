@@ -21,7 +21,7 @@ While that venture didn't pan out as expected, it was during the challenging tim
 
 As an office leasing agent, I take on various roles, ranging from creating digital content to assist my clients in finding their dream offices. But my journey doesn't stop there. I also ventured into the [student hostel](/student-hostel) and [serviced apartment](/serviced-apartment) businesses, although I exited that chapter in 2017.
 
-My curiosity led me to explore the world of chatbots, and I even launched [Udemy courses](https://www.udemy.com/user/jin-hoe-lian){:target="_blank" rel="noreferrer"} to teach people how to build their own chatbots. I've had the pleasure of creating chatbots for small and medium-sized enterprises and was [featured](https://www.tnp.sg/news/singapore/duo-help-smes-build-chatbots){:target="_blank" rel="noreferrer"} in local media.
+My curiosity led me to explore the world of chatbots, and I even launched [Udemy courses](https://www.udemy.com/user/jin-hoe-lian){:target="_blank" rel="noreferrer"} to teach people how to build their own chatbots. I've had the pleasure of creating chatbots for small and medium-sized enterprises and was [featured](/featured-the-new-paper) in local media.
 
 #### Embracing change
 
