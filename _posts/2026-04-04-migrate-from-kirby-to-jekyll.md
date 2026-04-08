@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Migrate from Kirby to Jekyll"
-date: 2026-04-04 00:00:00 +0800
+date: 2026-04-04 01:00:00 +0800
 ---
 
 In the past, writing a post has lots of friction. I need to run Kirby in my laptop, login, copy and paste the content, publish it. Then run a python script to generate it into static pages and commit it to my github.
