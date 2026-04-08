@@ -6,7 +6,7 @@
     margin: 0;
     background: none;
     text-decoration: none;
-    outline: none;
+
     font-family: inherit;
     font-size: inherit;
     line-height: inherit;
@@ -34,15 +34,15 @@ details > summary {
     --c-high-light: hsla(54, 100%, 62%, 0.9);
     --c-text: hsl(0, 0%, 25%);
     --c-text-mid: hsl(0, 0%, 50%);
-    --c-text-light: hsl(0, 0%, 97%);
+    --c-text-light: hsl(0, 0%, 90%);
     --f-family: "Iowan Old Style", Palatino, Palatino Linotype, "Palatino LT STD", Garamond, Baskerville, Baskerville Old Face, Hoefler Text, Times New Roman, serif;
     --f-mono: "SF Mono", Consolas, monaco, monospace;
-    --f-size: 16px;             /* --f-size: 14px; */
-    --f-lineheight: 27px;       /* --f-lineheight: 24px; */
+    --f-size: 16px;
+    --f-lineheight: 27px;
     --f-weight: 400;
     --f-style: normal;
     --f-scale-s: 0.889;
-    --f-scale-m: 1.0;           /* --f-scale-m: 1.2; */
+    --f-scale-m: 1.0;
     --f-scale-l: 1.4;
     --f-scale-xl: 1.6;
     --f-scale-xxl: 2.2;
@@ -64,7 +64,6 @@ details > summary {
         --f-lineheight: 32px;
     }
 }
-/* Added by Jinhoe */
 @media (min-width: 2000px) {
     :root {
         --f-size: 20px;
@@ -75,8 +74,13 @@ details > summary {
     background: var(--c-high);
     color: var(--c-text);
 }
+:focus-visible {
+    outline: 2px solid var(--c-high-light);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
 body {
-    padding: 5rem 1rem 1.5rem;    /* padding: 5rem 1.5rem 1.5rem; */
+    padding: 5rem 1rem 1.5rem;
 }
 *,
 *::before,
@@ -153,8 +157,8 @@ li > a:not([class]):hover {
     background-position: 100% 100%;
 }
 p + p {
-    text-indent: 0.5rem;            /* text-indent: 1rem; */
-    margin-top: 0.5rem;             /* Added by Jinhoe */
+    text-indent: 0.5rem;
+    margin-top: 0.5rem;
 }
 hr {
     display: block;
@@ -193,8 +197,6 @@ pre:not(:first-child) {
 pre code {
     font-size: calc(var(--f-size) * var(--f-scale-s));
     line-height: 0.8rem;
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
     font-family: var(--f-mono);
     padding: 1rem;
     display: block;
@@ -228,15 +230,15 @@ ul {
 }
 .img-figure,
 .video-figure {
-    margin-top: 2rem;                   /* margin-top: 3rem; */
-    margin-bottom: 2rem;                /* margin-bottom: 3rem; */
-    max-width: var(--l-regular);        /* max-width: var(--l-wide); */
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    max-width: var(--l-regular);
 }
 .img-wrapper,
 .video-wrapper {
     position: relative;
     border-radius: 2px;
-    /*overflow: hidden;*/               /* Remove a 1-pixel white row at the bottom of the image */
+    /* overflow: hidden causes a 1px white row at the bottom of images — intentionally omitted */
 }
 .img {
     display: block;
@@ -267,7 +269,6 @@ figcaption {
     margin-top: 1rem;
     text-align: center;
 }
-/* Added .video-container by Jinhoe */
 .img-figure[data-template="with"] .img-container, .video-container {
     padding: 1rem;
     background: var(--c-bg-light);
@@ -354,10 +355,10 @@ figcaption {
 }
 .archive-post-name {
     flex: 0 1 auto;
-    text-align: left;           /* Added by Jinhoe */
-    overflow: hidden;           /* Added by Jinhoe */
-    text-overflow: ellipsis;    /* Added by Jinhoe */
-    white-space: nowrap;        /* Added by Jinhoe */
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .archive-post-spacer {
     margin-top: 0;
@@ -382,8 +383,6 @@ details[open] summary {
 summary {
     font-size: calc(var(--f-size) * var(--f-scale-s));
     line-height: 0.8rem;
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
     font-style: italic;
     padding: 0.25rem 0.75rem;
     display: inline-block;
@@ -405,18 +404,19 @@ summary:hover {
     line-height: 0.8rem;
     padding-top: 0.1rem;
     padding-bottom: 0.1rem;
-/* Removed by Jinhoe */
-/*  background: linear-gradient(to right, var(--c-high), var(--c-high-light));
-    background-size: 300% 40%;
-    background-repeat: no-repeat;
-    background-position: 0% 100%;
-    transition-property: background-position;
-    transition-duration: 300ms; */
     padding: 0;
-    margin: 0 0.5rem;                       /* margin: 0 0.15rem; */
-    transition: color 300ms ease-out;       /* Added by Jinhoe */
+    margin: 0 0.5rem;
+    transition: color 300ms ease-out;
 }
 .footer-item:hover {
-    background-position: 100% 100%;
-    color: var(--c-text-mid);               /* Added by Jinhoe */
+    color: var(--c-text-mid);
+}
+@media (prefers-color-scheme: dark) {
+    :root {
+        --c-bg: hsl(0, 0%, 10%);
+        --c-bg-light: hsl(0, 0%, 15%);
+        --c-text: hsl(0, 0%, 82%);
+        --c-text-mid: hsl(0, 0%, 52%);
+        --c-text-light: hsl(0, 0%, 28%);
+    }
 }
