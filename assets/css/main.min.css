@@ -338,10 +338,12 @@ figcaption {
     display: flex;
     align-items: center;
     margin-top: 1rem;
+    font-weight: 400;
 }
 .archive-latest-subtitle {
     text-align: center;
     display: block;
+    padding-bottom: 0.5rem;
 }
 .archive-year {
     font-size: calc(var(--f-size) * var(--f-scale-m));
