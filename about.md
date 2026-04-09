@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "About"
+title: "About myself"
 ---
 
-{% include image.html src="/assets/images/about/lian-jin-hoe.jpeg" caption="My happiest moment" %}
+<img src="/assets/images/about/lian-jin-hoe.jpg" alt="Lian Jin Hoe" style="width:200px;height:200px;border-radius:50%;object-fit:cover;display:block;margin:0 auto 1.5rem;">
 
 I'm Jinhoe, a DevOps Engineer based in Singapore.
 
@@ -31,8 +31,6 @@ The COVID-19 pandemic had a profound impact on my real estate business. It was d
 
 Today, I enjoy my work as a DevOps Engineer, helping clients automate their day-to-day routine tasks, which makes their lives easier and more efficient. When the sun sets and my son is asleep, you'll find me watching Netflix, taking online courses, and working on fun projects.
 
-## Connect {#contact}
+#### Connect {#contact}
 
-I've exited from most social media platforms, but you can still connect with me on [X](https://twitter.com/jinhoe0){:target="_blank" rel="noreferrer"} or reach out via my email below.
-
-{% include image.html src="/assets/images/about/jinhoe-contact.jpeg" %}
+I've exited from most social media platforms, but you can still connect with me on [X](https://twitter.com/jinhoe0){:target="_blank" rel="noreferrer"} or email me at <chutes.allegro_6k@icloud.com> *(This random email address will forward to my personal email inbox)*.
