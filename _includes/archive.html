@@ -53,10 +53,7 @@ the collapsible <details> section, with the rest inside.
             {% comment %}Show year+month header when they change{% endcomment %}
             {% if post_month != prev_month or post_year != prev_year %}
             <h3 class="archive-subtitle">
-                {% if post_year != prev_year %}
-                    <span class='archive-year'>{{ post_year }}</span>
-                {% endif %}
-                <span class="archive-month">{{ post_month }}</span>
+                <span class="archive-month">{{ post_month }}</span> <span class='archive-year'>{{ post_year }}</span>
             </h3>
             {% endif %}
 
