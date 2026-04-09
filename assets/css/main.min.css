@@ -45,16 +45,13 @@ details > summary {
     --f-scale-m: 1.0;
     --f-scale-l: 1.4;
     --f-scale-xl: 1.6;
-    --f-scale-xxl: 2.2;
     --l-narrower: 9rem;
     --l-narrow: 18rem;
     --l-regular: 24rem;
-    --l-wide: 36rem;
     font-size: var(--f-lineheight);
     font-family: var(--f-family);
     font-weight: var(--f-weight);
     font-style: var(--f-style);
-    text-align: var(--f-alignment);
     background: var(--c-bg);
     color: var(--c-text);
 }
@@ -62,6 +59,12 @@ details > summary {
     :root {
         --f-size: 17px;
         --f-lineheight: 32px;
+    }
+}
+@media (min-width: 768px) {
+    :root {
+        --f-size: 18px;
+        --f-lineheight: 34px;
     }
 }
 @media (min-width: 2000px) {
@@ -312,7 +315,7 @@ figcaption {
     max-width: var(--l-narrow);
 }
 .archive:last-child {
-    margin-bottom: 7rem;
+    margin-bottom: 4rem;
 }
 .archive-title {
     font-size: calc(var(--f-size) * var(--f-scale-m));
@@ -406,14 +409,12 @@ summary:hover {
     color: var(--c-text-mid);
 }
 .footer {
-    margin-top: 6rem;
+    margin-top: 4rem;
     text-align: center;
 }
 .footer-item {
     font-size: calc(var(--f-size) * var(--f-scale-s));
     line-height: 0.8rem;
-    padding-top: 0.1rem;
-    padding-bottom: 0.1rem;
     padding: 0;
     margin: 0 0.5rem;
     transition: color 300ms ease-out;
