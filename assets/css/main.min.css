@@ -346,13 +346,13 @@ figcaption {
 .archive-year {
     font-size: calc(var(--f-size) * var(--f-scale-m));
     line-height: 1rem;
-    font-weight: 600;
+    /* font-weight: 400; */
     margin-left: 0.25rem;
 }
 .archive-month {
     font-size: calc(var(--f-size) * var(--f-scale-m));
     line-height: 1rem;
-    font-weight: 600;
+    /* font-weight: 400; */
     margin-left: auto;
 }
 .archive-post-link {
