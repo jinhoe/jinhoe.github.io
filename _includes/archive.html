@@ -12,10 +12,9 @@ the collapsible <details> section, with the rest inside.
 {% assign latest_month = latest_post.date | date: "%B" %}
 {% assign latest_year = latest_post.date | date: "%Y" %}
 
+<div class="archive-divider">* * *</div>
+
 <nav class="archive archive-posts">
-    <h2 class="archive-title">Want to read something else?</h2>
-    <div class="archive-text"><p>Keep scrolling then</p></div>
-    
     <div class="archive-latest">
         <h3 class="archive-subtitle archive-latest-subtitle">{{ latest_month }}'s Thoughts</h3>
         {% for post in all_posts %}

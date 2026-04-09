@@ -299,6 +299,13 @@ figcaption {
 .text {
     margin-bottom: 6rem;
 }
+.archive-divider {
+    text-align: center;
+    color: var(--c-text-light);
+    letter-spacing: 0.5em;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
 .archive {
     margin-right: auto;
     margin-left: auto;
