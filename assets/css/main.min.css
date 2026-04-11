@@ -30,8 +30,8 @@ details > summary {
 :root {
     --c-bg: hsl(0, 0%, 100%);
     --c-bg-light: hsl(0, 0%, 97%);
-    --c-high: hsla(54, 100%, 62%, 0.4);
-    --c-high-light: hsla(54, 100%, 62%, 0.9);
+    --c-high: hsla(210, 100%, 60%, 0.3);
+    --c-high-light: hsla(210, 100%, 60%, 0.8);
     --c-text: hsl(0, 0%, 25%);
     --c-text-mid: hsl(0, 0%, 50%);
     --c-text-light: hsl(0, 0%, 90%);
