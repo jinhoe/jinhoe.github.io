@@ -84,7 +84,8 @@ You can automate the post creation process (including formatting, folder managem
 
 1. **Write the Post:** Create a basic Markdown file anywhere on your computer.
    - **First Line:** Must be the Post Title (this line will be extracted and converted to your front matter and URL slug).
-   - **Body:** Write your content normally below the title. Use the **shorthand syntax** below for links, images, and videos.
+   - **Second Line (Optional):** To override the auto-generated slug, put a custom slug here using only lowercase letters, numbers, and hyphens (e.g. `new-obsidian-vault`). Useful when the title contains Chinese characters or when you want a specific URL. If present, this line is consumed by the script and will not appear in the post body.
+   - **Body:** Write your content normally below the title (or slug line). Use the **shorthand syntax** below for links, images, and videos.
 2. **Add Images (Optional):** 
    - Place your raw, high-resolution source images into the `publish/step_1_image/` folder.
    - In your Markdown, reference them using the `@image` shorthand (see below).
@@ -101,17 +102,19 @@ Instead of typing verbose Liquid/Kramdown markup, use these shorthands — the p
 | `@image(file.jpg "caption")` | `{% include image.html src="/assets/images/slug/file.jpg" caption="caption" %}` |
 | `@video(url)` | `{% include video.html url="url" %}` |
 
-**Example draft post:**
+**Example draft post (auto-generated slug):**
 ```markdown
 My First Post
 
 Check out @[this blog](https://example.com) for more info.
+```
 
-Here's a photo:
-@image(sunset.jpg "Beautiful sunset")
+**Example draft post (custom slug — useful for Chinese titles or specific URLs):**
+```markdown
+我的第一篇文章
+my-first-post
 
-And a video:
-@video(https://www.youtube.com/watch?v=abc123)
+Check out @[this blog](https://example.com) for more info.
 ```
 
 **What the Automation Does:**
