@@ -3,7 +3,6 @@ layout: post
 title: "Apple Fitness+"
 date: 2026-05-10 09:35:08 +0800
 ---
-/apple-fitness-plus
 
 When Apple first introduced this service, I was excited to try it but it wasn't available in Singapore yet. After a few years of waiting, it finally arrived.
 
