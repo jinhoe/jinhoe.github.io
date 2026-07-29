@@ -13,8 +13,3 @@ However, what you actually receive is not the gift, but SmartPoints. And you'll 
 On 5 Jan 2026, the amount of SmartPoints you were going to get allowed you to redeem the iPad. No issue. But the problem is, by the time I received my SmartPoints on 1 Jul 2026, the amount was no longer enough to redeem the same iPad. WTF.
 
 So the points required went up, and I needed to pay $130 to purchase enough SmartPoints to redeem my "free" iPad. Again, WTF.
-
----
-Annotations: 0,1032 SHA-256 228b287c87340578f638  
-&Writing Tools: 41 93,7 194,8 238 252 376 410 433 535,3 590,3 607,7 711,5 728,8 741,2 789 855,2 921,9 937 949,2  
-...
