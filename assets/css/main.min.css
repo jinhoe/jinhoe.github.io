@@ -338,7 +338,7 @@ figcaption {
     margin-top: 1rem;
     padding-bottom: 0.5rem;
     font-weight: 400;
-    text-align: center;
+    text-align: left;
 }
 .archive-post-link {
     transition: color 300ms ease-out;

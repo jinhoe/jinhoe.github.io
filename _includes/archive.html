@@ -1,48 +1,37 @@
 {% comment %}
 Archive component. Lists every post as "YYYY · MM  Title", newest first.
-Posts from the latest month sit outside the collapsible <details>; the rest inside.
+The 10 most recent posts sit outside the collapsible <details>; the rest inside.
 {% endcomment %}
 
 {% assign all_posts = site.posts %}
 {% assign current_post = include.current_post %}
-
-{% comment %}Month key of the latest post, used to split latest from the rest{% endcomment %}
-{% assign latest_post = all_posts | first %}
-{% assign latest_month = latest_post.date | date: "%Y-%m" %}
+{% assign recent_count = 10 %}
 
 <div class="archive-divider">* * *</div>
 
 <nav class="archive archive-posts">
     <div class="archive-latest">
         <h3 class="archive-subtitle">My Thoughts</h3>
-        {% for post in all_posts %}
-            {% assign post_month = post.date | date: "%Y-%m" %}
-            {% if post_month == latest_month %}
-                {% assign is_current = false %}
-                {% if current_post and post.url == current_post.url %}
-                    {% assign is_current = true %}
-                {% elsif current_post == null and forloop.first %}
-                    {% assign is_current = true %}
-                {% endif %}
-                <a class="archive-post-link {% if is_current %}archive-post-link-current{% endif %}" href="{{ post.url }}">
-                    <p class="archive-post-date">{{ post.date | date: "%Y · %m" }}</p>
-                    <p class="archive-post-name">{{ post.title }}</p>
-                </a>
+        {% for post in all_posts limit: recent_count %}
+            {% assign is_current = false %}
+            {% if current_post and post.url == current_post.url %}
+                {% assign is_current = true %}
+            {% elsif current_post == null and forloop.first %}
+                {% assign is_current = true %}
             {% endif %}
+            <a class="archive-post-link {% if is_current %}archive-post-link-current{% endif %}" href="{{ post.url }}">
+                <p class="archive-post-date">{{ post.date | date: "%Y · %m" }}</p>
+                <p class="archive-post-name">{{ post.title }}</p>
+            </a>
         {% endfor %}
     </div>
 
+    {% comment %}Only offer "Show More" when there is actually more to show{% endcomment %}
+    {% if all_posts.size > recent_count %}
     <details>
         <summary>Show More</summary>
 
-        {% for post in all_posts %}
-            {% assign post_month = post.date | date: "%Y-%m" %}
-
-            {% comment %}Skip posts in the latest month (already shown above){% endcomment %}
-            {% if post_month == latest_month %}
-                {% continue %}
-            {% endif %}
-
+        {% for post in all_posts offset: recent_count %}
             {% assign is_current = false %}
             {% if current_post and post.url == current_post.url %}
                 {% assign is_current = true %}
@@ -55,4 +44,5 @@ Posts from the latest month sit outside the collapsible <details>; the rest insi
         {% endfor %}
 
     </details>
+    {% endif %}
 </nav>
