@@ -160,7 +160,7 @@ li > a:not([class]):hover {
     background-position: 100% 100%;
 }
 p + p {
-    text-indent: 0.5rem;
+    margin-top: 0.75rem;
 }
 hr {
     display: block;
