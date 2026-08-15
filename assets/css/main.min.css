@@ -335,27 +335,10 @@ figcaption {
     padding-bottom: 0.1rem;
 }
 .archive-subtitle {
-    display: flex;
-    align-items: center;
     margin-top: 1rem;
-    font-weight: 400;
-}
-.archive-latest-subtitle {
-    text-align: center;
-    display: block;
     padding-bottom: 0.5rem;
-}
-.archive-year {
-    font-size: calc(var(--f-size) * var(--f-scale-m));
-    line-height: 1rem;
-    /* font-weight: 400; */
-    margin-left: 0.25rem;
-}
-.archive-month {
-    font-size: calc(var(--f-size) * var(--f-scale-m));
-    line-height: 1rem;
-    /* font-weight: 400; */
-    margin-left: auto;
+    font-weight: 400;
+    text-align: center;
 }
 .archive-post-link {
     transition: color 300ms ease-out;
@@ -369,26 +352,26 @@ figcaption {
 .archive-post-link-current {
     font-style: italic;
 }
+.archive-post-date {
+    flex: 0 0 auto;
+    margin-right: 0.75rem;
+    margin-left: 0;
+    max-width: none;
+    color: var(--c-text-mid);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+}
 .archive-post-name {
     flex: 0 1 auto;
+    min-width: 0;
+    /* reset the global `p + p` rule — the date <p> now precedes the title */
+    margin: 0;
+    text-indent: 0;
+    max-width: none;
     text-align: left;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-}
-.archive-post-spacer {
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-right: 0.5rem;
-    margin-left: 0.5rem;
-    height: 1px;
-    border: none;
-    border-bottom: 1px dotted var(--c-text);
-    flex: 1 0 1rem;
-    opacity: 0.25;
-}
-.archive-post-day {
-    flex: 0 1 auto;
 }
 details {
     text-align: center;
