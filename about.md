@@ -3,7 +3,7 @@ layout: page
 title: "About myself"
 ---
 
-<img src="/assets/images/about/lian-jin-hoe.jpg" alt="Lian Jin Hoe" style="width:200px;height:200px;border-radius:50%;object-fit:cover;display:block;margin:0 auto 1.5rem;">
+<div><img src="/assets/images/about/lian-jin-hoe.jpg" alt="Lian Jin Hoe" style="width:200px;height:200px;border-radius:50%;object-fit:cover;display:block;margin:0 auto 1.5rem;"></div>
 
 I'm Jinhoe, a DevOps Engineer based in Singapore.
 

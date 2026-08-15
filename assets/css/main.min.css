@@ -43,6 +43,7 @@ details > summary {
     --f-style: normal;
     --f-scale-s: 0.889;
     --f-scale-m: 1.0;
+    --f-scale-ms: 1.15;
     --f-scale-l: 1.4;
     --f-scale-xl: 1.6;
     --l-narrower: 9rem;
@@ -127,7 +128,7 @@ h3 {
 h4,
 h5,
 h6 {
-    font-size: calc(var(--f-size) * var(--f-scale-m));
+    font-size: calc(var(--f-size) * var(--f-scale-ms));
     line-height: 1rem;
     font-weight: 600;
 }
@@ -137,7 +138,6 @@ h3:not([class]),
 h4:not([class]),
 h5:not([class]),
 h6:not([class]) {
-    text-align: center;
     margin-top: 2rem;
     margin-bottom: 1rem;
 }
@@ -161,7 +161,6 @@ li > a:not([class]):hover {
 }
 p + p {
     text-indent: 0.5rem;
-    margin-top: 0.5rem;
 }
 hr {
     display: block;
