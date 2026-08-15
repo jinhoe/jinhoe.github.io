@@ -3,16 +3,16 @@ layout: page
 title: "Uses"
 ---
 
-*Updated: April 2026*
+*Updated: August 2026*
 
 Sharing the hardware and software I use in my day-to-day life:
 
 ### Study room
-- **MacBook Air M3** - *I'm happy with it, but 16GB RAM will be better!*
+- **MacBook Air M5** - *I'm happy with it!*
 - **Apple Studio Display** - *It is an investment for my eyes.*
-- **IKEA SIGFINN Monitor Stand** - *I needed my monitor to be higher than my MacBook Air, was using a stack of books previously.*
-- **Apple Magic Mouse 2** - *Well, it's design by Apple.*
-- **Razer Mouse Pad** - *Don't ask me the model; I've been using it for years.*
+- **Apple Magic Mouse 2** - *Well, designed by Apple.*
+- **Razer Mouse Pad** - *I've been using it for years.*
+- **Xiaomi Rehcargeable Mini Fan** - *A very cute desktop fan.*
 - **IKEA VADHOLMA Kitchen Island** - *Yeah, I use it as my work desk. A bit overkill if you ask me now. But I can sit or stand while working without any adjustment.*
 - **IKEA FRANKLIN Bar Stool** - *Not the most comfortable, but it works.*
 
@@ -20,9 +20,11 @@ Sharing the hardware and software I use in my day-to-day life:
 - **Sony 55" LCD TV** - *A trusty TV brand.* 
 - **Apple TV HD** - *This is gone. I'm waiting for the next gen.*
 - **HomePod mini** - *My daily voice-activated radio.*
-- **iPad Pro 11-inch** - *My entertainment device. The screen sensitivity is broken.*
-- **Dyson Digital Slim** - *Yes, I do housework. It is lightweight, good for my tiny arm. Eyeing the Dyson Submarine now.*
+- **iPad** - *My entertainment device. Got it from credit card promotion gift.*
+- **Dyson Digital Slim** - *Yes, I do housework. It is lightweight, good for my tiny arm.*
+- **Dyson WashG1** - *It was a mistake getting this, very disappointed with Dyson.*
 - **SMATRUL Smart Plug** - *To control my home appliances and schedule them to turn on or off automatically.*
+- **IKEA GRILLPLATS Smart Plug** - *Matter compatible, so I can use Apple HomeKit with it. The only downsides are that it cannot be scheduled to turn on without an internet connection, and it cannot automatically turn off when power consumption is low.*
 
 ### On the move
 - **iPhone 16 Pro** - Self-explanatory.
@@ -35,7 +37,6 @@ Sharing the hardware and software I use in my day-to-day life:
 - **Termius** - *An SSH platform to access servers.*
 - **TradingView** - *I use it to look at stock market charts, acting like a pro.*
 - **FreeForm** - *A whiteboarding app by Apple. I use it to draft flowcharts for my work.*
-- **Hidden Bar** - *A utility app to hide cluttered icons in the top bar.*
 - **Magnet** - *Another utility app to quickly resize windows using shortcut keys.*
 
 ### iOS apps
@@ -43,18 +44,20 @@ Sharing the hardware and software I use in my day-to-day life:
 - **X** - *I mostly use it to get updates. I post when I'm in the mood.*
 - **Spotify** - *As much as I want to be in Apple's ecosystem, this is still the winner.*
 - **Shortcuts** - *I created some shortcuts to make my life easier. I will share them someday.*
+- **ZheBus** - *To check bus arrival time and get alert*
 
 ### Default app or service
 - **Email** - *Apple Mail*
-- **Notes** - *Apple Notes*
+- **Notes** - *Apple Notes & Obsidian*
 - **To-Do** - *Apple Reminders*
 - **Photo Management** - *Apple Photos*
 - **Photo Editing** - *Apple Photos (Vivid Cool 50)*
 - **Calendar** - *Apple Calendar*
-- **Cloud File Storage** - *iCloud*
+- **Cloud File Storage** - *iCloud and Box (work)*
 - **Contacts** - *Apple Contacts*
-- **Browser** - *Safari*
-- **Chat** - *WhatsApp, iMessage & Telegram for closed group*
+- **Browser** - *Safari & Chrome (work)*
+- **Chat** - *WhatsApp, iMessage and Telegram*
 - **Word Processing** - *Google Docs*
 - **Spreadsheets** - *Google Sheets*
 - **Presentations** - *Apple Keynote*
+- **AI** - *Claude*
