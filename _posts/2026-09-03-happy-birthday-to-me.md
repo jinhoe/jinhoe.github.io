@@ -8,7 +8,7 @@ This year I have a few good birthday present. Yesterday I received my blood test
 
 And this morning my Pinduoduo products arrived. Just in time for my birthday.
 
-{% include image.html src="/assets/images/happy-birthday-to-me/apple-watch-leather-strip.jpg" caption="Apple Watch leather strip $4" %}
+{% include image.html src="/assets/images/happy-birthday-to-me/apple-watch-leather-strip.jpg" caption="Apple Watch leather strap $4" %}
 {% include image.html src="/assets/images/happy-birthday-to-me/fake-apple-t-shirt.jpg" caption="Fake Apple t-shirt $4" %}
 
 Happy birthday, Jinhoe.
