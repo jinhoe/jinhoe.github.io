@@ -2,6 +2,7 @@ title: "Jinhoe's Thoughts"
 description: "My personal space without ads."
 url: "https://jinhoe.com"
 baseurl: ""
+timezone: Asia/Singapore
 
 # Build settings
 markdown: kramdown
