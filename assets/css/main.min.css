@@ -299,19 +299,14 @@ figcaption {
     max-width: var(--l-narrow);
 }
 .text {
-    margin-bottom: 6rem;
-}
-.archive-divider {
-    text-align: center;
-    color: var(--c-text-light);
-    letter-spacing: 0.5em;
-    margin-top: 4rem;
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
 }
 .archive {
     margin-right: auto;
     margin-left: auto;
     max-width: var(--l-narrow);
+    border-top: 1px solid var(--c-text-light);
+    padding-top: 2rem;
 }
 .archive:last-child {
     margin-bottom: 4rem;
@@ -334,7 +329,7 @@ figcaption {
     padding-bottom: 0.1rem;
 }
 .archive-subtitle {
-    margin-top: 1rem;
+    margin-top: 0;
     padding-bottom: 0.5rem;
     font-weight: 400;
     text-align: center;
