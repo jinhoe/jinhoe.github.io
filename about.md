@@ -3,14 +3,16 @@ layout: page
 title: "About myself"
 photo: "/assets/images/about/lian-jin-hoe.jpg"
 photo_alt: "Lian Jin Hoe"
-intro: "I'm Jinhoe, a DevOps Engineer based in Singapore."
+intro: "I'm Jinhoe. I automate things and build small apps."
 ---
+
+I'm a DevOps engineer based in Singapore. This is my personal space without ads, where I share notes on automation, the apps I make, and everyday life.
 
 My passion lies in crafting efficient systems and automating everyday tasks. Clean design, functionality and minimalism are at the heart of everything I create.
 
 #### Who am I?
 
-I'm a proud Singaporean of Chinese descent. From a young age, I love art and being creative. It's just a part of who I am. I'm also a firm believer in optimizing things to simplify life. My go-to brands are APPLE, UNIQLO, MUJI, and IKEA. To add a touch of fun, I'd love to share the [tools and apps](/uses) that accompany me in my daily routines.
+I'm a proud Chinese Singaporean. From a young age, I love art and being creative. It's just a part of who I am. I'm also a firm believer in optimizing things to simplify life. My go-to brands are APPLE, UNIQLO, MUJI, and IKEA. To add a touch of fun, I'd love to share the [tools and apps](/uses) that accompany me in my daily routines.
 
 #### My journey
 
