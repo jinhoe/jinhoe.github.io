@@ -14,11 +14,28 @@
         btn.title = text;
     }
     label();
+    // One setting for jinhoe.com and app.jinhoe.com: a "theme" cookie on .jinhoe.com.
+    function save(m) {
+        var shared = /(^|\.)jinhoe\.com$/.test(location.hostname) ? '; domain=jinhoe.com' : '';
+        var secure = location.protocol === 'https:' ? '; secure' : '';
+        document.cookie = 'theme=' + m + '; path=/; max-age=31536000; samesite=lax' + shared + secure;
+        try { localStorage.setItem('theme', m); } catch (e) {}
+    }
+    function saved() {
+        var c = document.cookie.match(/(?:^|; )theme=(light|dark|auto)(?:;|$)/);
+        if (c) return c[1];
+        try { return localStorage.getItem('theme'); } catch (e) { return null; }
+    }
     btn.addEventListener('click', function () {
         var m = next(current());
         root.setAttribute('data-theme', m);
-        try { localStorage.setItem('theme', m); } catch (e) {}
+        save(m);
         label();
+    });
+    // Coming back via the back button (or from the other site) restores a cached page: re-read the setting.
+    window.addEventListener('pageshow', function (e) {
+        var m = saved();
+        if (e.persisted && order.indexOf(m) >= 0 && m !== current()) { root.setAttribute('data-theme', m); label(); }
     });
 })();
 </script>
