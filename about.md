@@ -1,11 +1,10 @@
 ---
 layout: page
 title: "About myself"
+photo: "/assets/images/about/lian-jin-hoe.jpg"
+photo_alt: "Lian Jin Hoe"
+intro: "I'm Jinhoe, a DevOps Engineer based in Singapore."
 ---
-
-<div><img src="/assets/images/about/lian-jin-hoe.jpg" alt="Lian Jin Hoe" style="width:112px;height:112px;border-radius:50%;object-fit:cover;display:block;"></div>
-
-I'm Jinhoe, a DevOps Engineer based in Singapore.
 
 My passion lies in crafting efficient systems and automating everyday tasks. Clean design, functionality and minimalism are at the heart of everything I create.
 
@@ -33,4 +32,11 @@ Today, I enjoy my work as a DevOps Engineer, helping clients automate their day-
 
 #### Connect {#contact}
 
-I've exited from most social media platforms, but you can still connect with me on [X](https://twitter.com/jinhoe0){:target="_blank" rel="noreferrer"} or email me at <chutes.allegro_6k@icloud.com> *(This random email address will forward to my personal email inbox)*.
+I've exited from most social media platforms, but you can still connect with me on [X](https://twitter.com/jinhoe0){:target="_blank" rel="noreferrer"} or by email.
+
+<div class="link-rows">
+<a class="link-row" href="https://twitter.com/jinhoe0" target="_blank" rel="noreferrer"><span class="link-row-label">X</span><span class="link-row-value">@jinhoe0</span></a>
+<a class="link-row" href="mailto:chutes.allegro_6k@icloud.com"><span class="link-row-label">Email</span><span class="link-row-value">chutes.allegro_6k@icloud.com</span></a>
+</div>
+
+<p class="note">This random email address forwards to my personal inbox.</p>

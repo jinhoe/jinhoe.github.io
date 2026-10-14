@@ -4,7 +4,9 @@ body_class: page-default
 ---
 <article class="entry">
     <header class="entry-header">
+        {% if page.photo %}<img class="entry-photo" src="{{ page.photo }}" alt="{{ page.photo_alt | default: '' }}" width="112" height="112">{% endif %}
         <h1 class="entry-title">{{ page.title }}</h1>
+        {% if page.intro %}<p class="entry-intro">{{ page.intro }}</p>{% endif %}
     </header>
     <div class="content">{{ content }}</div>
 </article>

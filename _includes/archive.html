@@ -37,6 +37,7 @@ The post being read (or the latest one on the home page) gets a highlighter mark
                 <span class="archive-name"><span>{{ post.title }}</span></span>
             </a>
         {% endfor %}
+        <button type="button" class="archive-less" onclick="var d=this.closest('details');d.open=false;d.querySelector('summary').scrollIntoView({block:'center'});">Show less <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M3 7.5l3-3 3 3"/></svg></button>
     </details>
     {% endif %}
 </section>
