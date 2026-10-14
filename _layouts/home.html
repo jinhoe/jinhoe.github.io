@@ -2,13 +2,12 @@
 layout: default
 body_class: page-home
 ---
-<div class="text">
-    <h1 class="text-title">{{ site.posts.first.title }}</h1>
-    <div class="post-date">{{ site.posts.first.date | date: "%B %-d, %Y" }}</div>
-    <div class="text-content">{{ site.posts.first.content }}</div>
-</div>{% include archive.html current_post=null %}
-                <footer class="footer">
-            <nav class="footer-nav">
-                {% include footer.html %}
-            </nav>
-        </footer>
+{% assign post = site.posts.first %}
+<article class="entry">
+    <header class="entry-header">
+        <time class="entry-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        <h1 class="entry-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    </header>
+    <div class="content">{{ post.content }}</div>
+</article>
+{% include archive.html current_post=null %}

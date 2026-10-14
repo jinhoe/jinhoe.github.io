@@ -1,0 +1,24 @@
+<script>
+(function () {
+    var btn = document.querySelector('.theme-toggle');
+    if (!btn) return;
+    var root = document.documentElement;
+    var order = ['light', 'dark', 'auto'];
+    var names = { light: 'Light', dark: 'Dark', auto: 'Auto' };
+    function current() { var m = root.getAttribute('data-theme'); return order.indexOf(m) < 0 ? 'auto' : m; }
+    function next(m) { return order[(order.indexOf(m) + 1) % order.length]; }
+    function label() {
+        var m = current();
+        var text = 'Appearance: ' + names[m] + '. Switch to ' + names[next(m)];
+        btn.setAttribute('aria-label', text);
+        btn.title = text;
+    }
+    label();
+    btn.addEventListener('click', function () {
+        var m = next(current());
+        root.setAttribute('data-theme', m);
+        try { localStorage.setItem('theme', m); } catch (e) {}
+        label();
+    });
+})();
+</script>

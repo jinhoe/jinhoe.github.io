@@ -4,6 +4,17 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="color-scheme" content="light dark">
+
+    <!-- Apply saved appearance before first paint (light | dark | auto) -->
+    <script>
+    (function () {
+        var t = 'auto';
+        try { t = localStorage.getItem('theme') || 'auto'; } catch (e) {}
+        if (['light', 'dark', 'auto'].indexOf(t) < 0) t = 'auto';
+        document.documentElement.setAttribute('data-theme', t);
+    })();
+    </script>
 
     {% if page.noindex %}
     <!-- Robots Instructions -->
@@ -23,11 +34,20 @@
 
     <!-- Good ol ico file -->
     <link rel="shortcut icon" href="/favicon.ico">
-<link href="/assets/css/main.min.css" rel="stylesheet">
+
+    <!-- Self-hosted Geist (SIL OFL 1.1, see /assets/fonts/OFL.txt) -->
+    <link rel="preload" href="/assets/fonts/Geist-Variable.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/assets/fonts/GeistMono-Variable.woff2" as="font" type="font/woff2" crossorigin>
+    <link href="/assets/css/main.min.css" rel="stylesheet">
 </head>
 
 <body class="{{ page.body_class | default: 'page-default' }}">
-    <main class="main">{{ content }}
-    </main>
+    <div class="site">
+        {% include header.html %}
+        <main class="main">
+            {{ content }}
+        </main>
+    </div>
+    {% include theme-toggle.html %}
 </body>
 </html>

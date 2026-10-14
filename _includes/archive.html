@@ -1,46 +1,42 @@
 {% comment %}
 Archive component. Lists every post as "YYYY · MM  Title", newest first.
 The 10 most recent posts sit outside the collapsible <details>; the rest inside.
+The post being read (or the latest one on the home page) gets a highlighter mark.
 {% endcomment %}
 
 {% assign all_posts = site.posts %}
 {% assign current_post = include.current_post %}
 {% assign recent_count = 10 %}
 
-<nav class="archive archive-posts">
-    <div class="archive-latest">
-        <h3 class="archive-subtitle">My Thoughts</h3>
-        {% for post in all_posts limit: recent_count %}
-            {% assign is_current = false %}
-            {% if current_post and post.url == current_post.url %}
-                {% assign is_current = true %}
-            {% elsif current_post == null and forloop.first %}
-                {% assign is_current = true %}
-            {% endif %}
-            <a class="archive-post-link {% if is_current %}archive-post-link-current{% endif %}" href="{{ post.url }}">
-                <p class="archive-post-date">{{ post.date | date: "%Y · %m" }}</p>
-                <p class="archive-post-name">{{ post.title }}</p>
-            </a>
-        {% endfor %}
-    </div>
+<section class="archive" aria-labelledby="archive-title">
+    <h2 class="archive-title" id="archive-title">My Thoughts</h2>
+    {% for post in all_posts limit: recent_count %}
+        {% assign is_current = false %}
+        {% if current_post and post.url == current_post.url %}
+            {% assign is_current = true %}
+        {% elsif current_post == null and forloop.first %}
+            {% assign is_current = true %}
+        {% endif %}
+        <a class="archive-link{% if is_current %} is-current{% endif %}" href="{{ post.url }}"{% if is_current %} aria-current="page"{% endif %}>
+            <span class="archive-date">{{ post.date | date: "%Y · %m" }}</span>
+            <span class="archive-name"><span>{{ post.title }}</span></span>
+        </a>
+    {% endfor %}
 
-    {% comment %}Only offer "Show More" when there is actually more to show{% endcomment %}
+    {% comment %}Only offer "Show more" when there is actually more to show{% endcomment %}
     {% if all_posts.size > recent_count %}
-    <details>
-        <summary>Show More</summary>
-
+    <details class="archive-more">
+        <summary>Show more <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M3 4.5l3 3 3-3"/></svg></summary>
         {% for post in all_posts offset: recent_count %}
             {% assign is_current = false %}
             {% if current_post and post.url == current_post.url %}
                 {% assign is_current = true %}
             {% endif %}
-
-            <a class="archive-post-link {% if is_current %}archive-post-link-current{% endif %}" href="{{ post.url }}">
-                <p class="archive-post-date">{{ post.date | date: "%Y · %m" }}</p>
-                <p class="archive-post-name">{{ post.title }}</p>
+            <a class="archive-link{% if is_current %} is-current{% endif %}" href="{{ post.url }}"{% if is_current %} aria-current="page"{% endif %}>
+                <span class="archive-date">{{ post.date | date: "%Y · %m" }}</span>
+                <span class="archive-name"><span>{{ post.title }}</span></span>
             </a>
         {% endfor %}
-
     </details>
     {% endif %}
-</nav>
+</section>
