@@ -1,7 +1,7 @@
 <header class="site-header">
     <nav class="site-nav" aria-label="Primary">
         <a class="site-nav-item" href="/"{% if page.layout == 'home' %} aria-current="page"{% endif %}>Home</a>
-        <a class="site-nav-item" href="https://app.jinhoe.com">Apps</a>
+        <a class="site-nav-item" href="/apps/"{% if page.url contains '/apps' %} aria-current="page"{% endif %}>Apps</a>
         <a class="site-nav-item" href="/about"{% if page.url contains '/about' %} aria-current="page"{% endif %}>About</a>
     </nav>
     <button type="button" class="theme-toggle" aria-label="Appearance">

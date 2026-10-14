@@ -521,6 +521,60 @@ html[data-theme] .archive-less {
     margin-top: 16px;
 }
 
+/* Apps list ---------------------------------------------------------------- */
+.content .app-list {
+    display: flex;
+    flex-direction: column;
+    border-top: 1px solid var(--line);
+}
+.app {
+    display: grid;
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 20px;
+    align-items: start;
+    padding: 24px 0;
+    border-bottom: 1px solid var(--line);
+}
+.app-icon {
+    display: block;
+    width: 64px;
+    height: 64px;
+    border-radius: 22.5%;
+    box-shadow: 0 0 0 1px var(--line);
+}
+@supports (corner-shape: squircle) {
+    .app-icon { corner-shape: squircle; border-radius: 30%; }
+}
+.app-body > * {
+    margin: 0;
+}
+.content .app-name {
+    margin: 0;
+    font-size: 20px;
+    line-height: 1.3;
+}
+.app-desc {
+    margin-top: 4px;
+}
+.app-links {
+    margin-top: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+    font-family: var(--f-mono);
+    font-size: 13px;
+    line-height: 1.5;
+}
+.app-link {
+    min-height: 44px;
+    display: inline-flex;
+    align-items: center;
+    color: var(--muted);
+}
+.app-link:hover {
+    color: var(--ink);
+}
+
 /* Phone -------------------------------------------------------------------- */
 @media (max-width: 599px) {
     :root {
@@ -557,6 +611,14 @@ html[data-theme] .archive-less {
     }
     .archive {
         line-height: 1.45;
+    }
+    .app {
+        grid-template-columns: 56px minmax(0, 1fr);
+        gap: 16px;
+    }
+    .app-icon {
+        width: 56px;
+        height: 56px;
     }
     .archive-link,
     .link-row {
