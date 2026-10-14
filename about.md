@@ -12,7 +12,7 @@ My passion lies in crafting efficient systems and automating everyday tasks. Cle
 
 #### Who am I?
 
-I'm a proud Chinese Singaporean. From a young age, I love art and being creative. It's just a part of who I am. I'm also a firm believer in optimizing things to simplify life. My go-to brands are APPLE, UNIQLO, MUJI, and IKEA. To add a touch of fun, I'd love to share the [tools and apps](/uses) that accompany me in my daily routines.
+I'm Singaporean, and proud of it. From a young age, I love art and being creative. It's just a part of who I am. I'm also a firm believer in optimizing things to simplify life. My go-to brands are APPLE, UNIQLO, MUJI, and IKEA. To add a touch of fun, I'd love to share the [tools and apps](/uses) that accompany me in my daily routines.
 
 #### My journey
 
