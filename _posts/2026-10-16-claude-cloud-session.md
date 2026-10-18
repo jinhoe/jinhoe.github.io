@@ -22,7 +22,7 @@ I also set up an automation trigger that runs a script whenever a file is droppe
 
 The script does several things. It converts the image to JPG, compresses it and resizes it. This step is important because my website is hosted for free on GitHub with a 1GB size limit, so I need to squeeze out every single byte I can. The script also makes some changes to the post so it displays properly on the website, and performs a few other minor tasks. Lastly, it commits (uploads) the files to my GitHub repository. Once that's done, the post is live on my website.
 
-So how did I set up Claude Code in the cloud?
+So how did I set up [Claude Code in the cloud](https://youtu.be/-OH1y7CjIew?si=Jr9mHtL294amgkzE){:target="_blank" rel="noreferrer"}?
 
 I explained my workflow to Claude and asked it to understand my script. Then I asked if it could create a workflow that uses the Claude app to publish a post.
 
