@@ -22,7 +22,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - .kirbystatic
 
 # Default front matter
 defaults:
