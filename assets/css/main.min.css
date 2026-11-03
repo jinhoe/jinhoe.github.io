@@ -571,7 +571,7 @@ html[data-theme] .archive-less {
     align-items: center;
     color: var(--muted);
 }
-.app-link:hover {
+a.app-link:hover {
     color: var(--ink);
 }
 
